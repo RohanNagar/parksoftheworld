@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
   // List Countries
-  fetch("../../data/countries.json")
+  fetch("data/countries.json")
     .then(response => {
       return response.json();
     })
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
     })
     .then(() => {
       // List Parks
-      fetch("../../data/parks.json")
+      fetch("data/parks.json")
         .then(response => {
           return response.json();
         })
