@@ -1,0 +1,52 @@
+name: Missing or Incorrect Park
+description: Report missing or incorrect data
+title: "Missing or Incorrect Park: "
+labels: ["user-reported"]
+assignees:
+  - RohanNagar
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a missing or incorrect park!
+  - type: input
+    id: park-name
+    attributes:
+      label: Park Name
+      description: What is the name of the missing or incorrect park?
+      placeholder: ex. Yellowstone
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Missing or Incorrect
+      description: Is this park completely missing or does it have incorrect data?
+      options:
+        - Missing
+        - Incorrect
+    validations:
+      required: true
+  - type: textarea
+    id: incorrect-info
+    attributes:
+      label: What is wrong?
+      description: If this is about an incorrect park, let us know which part is incorrect.
+      placeholder: Tell us what is wrong!
+    validations:
+      required: false
+  - type: input
+    id: link
+    attributes:
+      label: Reference Link
+      description: Please provide a reference link to the park or to where you found the correct information.
+      placeholder: ex. https://www.nps.gov/yell/index.htm
+    validations:
+        required: false
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Anything else that you wish to share?
+      description: Feel free to provide anything else that you think will help.
+    validations:
+      required: false
