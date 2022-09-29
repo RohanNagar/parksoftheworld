@@ -27,11 +27,7 @@ document.addEventListener("DOMContentLoaded", function() {
           parks.forEach(park => {
             var linkedPark = document.createElement("a");
             linkedPark.textContent = park.name;
-
-            if (park.url) {
-              linkedPark.setAttribute("href", 'parks/' + park.country.toLowerCase() + '/' + park.name.toLowerCase().replaceAll(' ', '-'));
-              linkedPark.setAttribute("target", "_blank");
-            }
+            linkedPark.setAttribute("href", 'parks/' + park.country.toLowerCase() + '/' + park.name.toLowerCase().replaceAll(' ', '-'));
 
             var listItem = document.createElement("li");
             listItem.appendChild(linkedPark);
