@@ -1,3 +1,9 @@
 # IntelliJ Files
 .idea/
 
+# OS Files
+.DS_Store
+
+# Generated parks pages
+parks/
+

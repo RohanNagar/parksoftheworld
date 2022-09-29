@@ -5,9 +5,17 @@
     "established": "2005",
     "latitude": "-7.949863615550642",
     "longitude": "-14.345047666855507",
+    "size": "",
+    "size_unit": "",
+    "visitor_count": "",
+    "color": "#7b9e3a",
     "url": "https://www.ascension.gov.ac/map-marker/green-mountain",
     "description": "The highest point on Ascension Island, which has gained some fame for claims that it is one of very few large-scale artificial forests.",
-    "image": ""
+    "images": [
+      "https://www.ascension.gov.ac/wp-content/uploads/2019/09/Terrestrial-Conservation.jpg",
+      "https://ychef.files.bbci.co.uk/976x549/p08fwkxy.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/da/a7/f4/green-mountain-national.jpg?w=1200&h=1200&s=1"
+    ]
   },
   {
     "name": "Northeast Greenland",
@@ -280,7 +288,7 @@
     "image": ""
   },
   {
-    "name": "Aoraki / Mount Cook",
+    "name": "Aoraki Mount Cook",
     "country": "NZ",
     "established": "1953",
     "latitude": "",

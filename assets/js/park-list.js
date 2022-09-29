@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
             linkedPark.textContent = park.name;
 
             if (park.url) {
-              linkedPark.setAttribute("href", park.url);
+              linkedPark.setAttribute("href", 'parks/' + park.country.toLowerCase() + '/' + park.name.toLowerCase().replaceAll(' ', '-'));
               linkedPark.setAttribute("target", "_blank");
             }
 
