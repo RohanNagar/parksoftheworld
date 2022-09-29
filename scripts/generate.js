@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const parks = require('../data/parks.json');
 const template = fs.readFileSync('template.html').toString();
-const imageDivTemplate = '<div class="col-4"><img src="%IMG_URL%" class="img-fluid img-thumbnail" /></div>'
+const imageDivTemplate = '<div class="col-12 col-md-6 col-lg-4"><img src="%IMG_URL%" class="img-fluid img-thumbnail" /></div>'
 const countryNames = new Intl.DisplayNames(['en'], { type: 'region' });
 
 parks.forEach(park => {
@@ -19,6 +19,8 @@ parks.forEach(park => {
   let sizeUnit = park.size_unit ? park.size_unit : '';
   let visitorCount = park.visitor_count ? park.visitor_count : 'Unknown';
   let color = park.color ? park.color : '#313437';
+  let latitude = park.latitude;
+  let longitude = park.longitude;
 
   let imageUrls = park.images ? park.images : [];
 
@@ -39,7 +41,9 @@ parks.forEach(park => {
     .replaceAll('%SIZE_UNIT%', sizeUnit)
     .replaceAll('%VISITOR_COUNT%', visitorCount)
     .replaceAll('%IMAGE_DIVS%', images)
-    .replaceAll('%HEX_COLOR%', color);
+    .replaceAll('%HEX_COLOR%', color)
+    .replaceAll('%LATITUDE%', latitude)
+    .replaceAll('%LONGITUDE%', longitude);
 
   let directory = '../parks/' + countryCode.toLowerCase()
   let filePath = directory + '/' + name.toLowerCase().replaceAll(' ', '-') + '.html';
