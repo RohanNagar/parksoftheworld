@@ -31,19 +31,27 @@
     "latitude": "76.00127418800315",
     "longitude": "-30.007434020763295",
     "size": "972,000",
-    "size_unit": "sq km",
+    "size_unit": "km²",
     "url": "https://visitgreenland.com/about-greenland/national-park-2/",
     "visitor_count": ""
   },
   {
     "name": "Amber Mountain",
+    "color": "#8dbd41",
     "country": "MG",
+    "description": "The park is known for its endemic flora and fauna, water falls and crater lakes. It is one of the most biologically diverse places in all of Madagascar with seventy-five species of birds, twenty-five species of mammals, and fifty-nine species of reptiles known to inhabit the park.",
     "established": "1958",
-    "latitude": "",
-    "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "images": [
+      "https://www.tripsavvy.com/thmb/aXPiyDG64trSaHej7tbd5pvlpr4=/3504x1971/smart/filters:no_upscale()/GettyImages-804605482-5c8b6caa46e0fb000177002c.jpg",
+      "https://www.naturalworldsafaris.com/media/3268/nws-st-madagascar-lemur-aye-aye-at-night.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2013/07/Montagne-dAmbre-Campground.jpg"
+    ],
+    "latitude": "-12.61875891606798",
+    "longitude": "49.14997854232979",
+    "size": "182",
+    "size_unit": "km²",
+    "url": "https://travellersworldwide.com/Amber-Mountain-National-Park/",
+    "visitor_count": ""
   },
   {
     "name": "Analamazaotra",

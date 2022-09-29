@@ -1,8 +1,21 @@
+// TODO: move all of this logic into generate.js so that we pre-generate
+// TODO: the entire park list and not do it within the browser.
 document.addEventListener("DOMContentLoaded", function() {
   // List Countries
   fetch("data/countries.json")
     .then(response => {
       return response.json();
+    })
+    .then(response => {
+      // Sort alphabetically by country name
+      response.sort((a, b) => {
+        let textA = a.name.toUpperCase();
+        let textB = b.name.toUpperCase();
+
+        return textA.localeCompare(textB);
+      });
+
+      return response;
     })
     .then(countries => {
       var listBuilder = "";
