@@ -55,13 +55,21 @@
   },
   {
     "name": "Analamazaotra",
+    "color": "#8dbd41",
     "country": "MG",
+    "description": "TThis is the most popular park within Parc National Andasibe Mantadia. The real draw of this reserve is the rare indri, Madagascar’s largest lemur, whose unforgettable wail can be heard emanating from the misty forest throughout the day, most commonly in the early morning. There are about 60 resident family groups of two to five indris each.",
     "established": "1989",
-    "latitude": "",
-    "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "images": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/44/06/fe/analamazaotra-special.jpg?w=1200&h=-1&s=1",
+      "https://upload.wikimedia.org/wikipedia/commons/0/07/Lake_in_the_Forest_%289654486219%29.jpg",
+      "https://www.parcs-madagascar.com/parcs/images/analamazaotra/indri.jpg"
+    ],
+    "latitude": "-18.938757515688774",
+    "longitude": "48.433704791406925",
+    "size": "810",
+    "size_unit": "ha",
+    "url": "https://www.parcs-madagascar.com/parcs/analamazaotra.php",
+    "visitor_count": ""
   },
   {
     "name": "Andasibe-Mantadia",
