@@ -50,7 +50,7 @@
     "longitude": "49.14997854232979",
     "size": "182",
     "size_unit": "km²",
-    "url": "https://travellersworldwide.com/Amber-Mountain-National-Park/",
+    "url": "http://www.parcs-madagascar.com/parcs/montagne%20d%20ambre.php",
     "visitor_count": ""
   },
   {
@@ -72,7 +72,7 @@
     "visitor_count": ""
   },
   {
-    "name": "Andasibe-Mantadi",
+    "name": "Andasibe-Mantadia",
     "color": "#878f97",
     "country": "MG",
     "description": "This rainforest is habitat to a vast species biodiversity, including many endemic rare species and endangered species, including 11 lemur species. The park's two component parts are Mantadia National Park and Analamazoatra Reserve, which is best known for its population of Madagascar's largest lemur, the indri.",
@@ -86,12 +86,12 @@
     "longitude": "48.459017149712764",
     "size": "155",
     "size_unit": "km²",
-    "url": "https://madagascar-tourisme.com/en/discover/the-east/andasibe-mantadia/",
+    "url": "http://www.parcs-madagascar.com/parcs/mantadia.php",
     "visitor_count": "22,110"
   },
   {
     "name": "Andohahela",
-    "color": "",
+    "color": "#286371",
     "country": "MG",
     "description": "Andohahela National Park is located in southeastern Madagascar and is characterized by two extreme ecosystems: endemic dry spiny forest and tropical rainforest, as well as a transitional zone. The park also houses a wetland and is only place where the rare Triangle Palm (Dypsis decaryi) palm grows in the wild.",
     "established": "1998",
@@ -104,218 +104,346 @@
     "longitude": "46.76654587075342",
     "size": "760",
     "size_unit": "km²",
-    "url": "https://www.wildmadagascar.org/conservation/parks/Andohahela.html",
+    "url": "http://www.parcs-madagascar.com/parcs/andohahela.php",
     "visitor_count": "1,300"
   },
   {
     "name": "Andringitra",
+    "color": "#afa4ac",
     "country": "MG",
-    "established": "1927",
-    "latitude": "",
-    "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "description": "The park is one of the most biologically diverse places in Madagascar, with many endemic species. The eastern flank of the massif is covered with humid forest, and humid grassland and scrub in the higher areas. On the western flank there is relatively dry forest. There are over one thousand species of plants, one hundred species of birds, and fifty-five species of frogs are known to inhabit the park.",
+    "established": "1999",
+    "images": [
+      "https://travellersworldwide.com/wp-content/uploads/2021/07/shutterstock_1122191246.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/1/13/Andringitra%2C_Madagascar_by_Effervescing_Elephant-10.jpg",
+      "https://madagascar-visite.com/holidays/wp-content/uploads/2020/01/andringitra.jpg"
+    ],
+    "latitude": "-22.21165571317014",
+    "longitude": "46.922407990707256",
+    "size": "31,160",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/andringitra.php",
+    "visitor_count": ""
   },
   {
     "name": "Ankarafantsika",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "2002",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/ankarafantsika.php",
+    "visitor_count": ""
   },
   {
     "name": "Baie de Baly",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1997",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/baie_de_baly.php",
+    "visitor_count": ""
   },
   {
     "name": "Isalo",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1962",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/isalo.php",
+    "visitor_count": ""
   },
   {
-    "name": "Kirindy Mitea",
+    "name": "Kirindy Mite",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1997",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/kirindy-mite.php",
+    "visitor_count": ""
   },
   {
     "name": "Lokobe",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1913",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/lokobe.php",
+    "visitor_count": ""
   },
   {
     "name": "Mananara Nord",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1989",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/mananara-nord.php",
+    "visitor_count": ""
   },
   {
     "name": "Marojejy",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1952",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/marojejy.php",
+    "visitor_count": ""
   },
   {
     "name": "Marolambo",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "2015",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/marolambo.php",
+    "visitor_count": ""
   },
   {
     "name": "Masoala",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1997",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/masoala.php",
+    "visitor_count": ""
   },
   {
     "name": "Midongy du sud",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1997",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/midongy%20du%20sud.php",
+    "visitor_count": ""
+  },
+  {
+    "name": "Mikea",
+    "color": "",
+    "country": "MG",
     "description": "",
-    "image": ""
+    "established": "2007",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "size": "2,367.37",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/mikea.php",
+    "visitor_count": ""
   },
   {
     "name": "Nosy Hara",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "2012",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/nosy%20hara.php",
+    "visitor_count": ""
   },
   {
     "name": "Nosy Tanikely",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "2011",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/nosy-tanihely.php",
+    "visitor_count": ""
   },
   {
     "name": "Nosy Ve-Androka",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "2015",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/nosy-ve-androka.php",
+    "visitor_count": ""
   },
   {
     "name": "Ranomafana",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1991",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/ranomafana.php",
+    "visitor_count": ""
   },
   {
     "name": "Sahamalaza",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "2007",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/sahamalaza.php",
+    "visitor_count": ""
   },
   {
     "name": "Tsimanampetsotse",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1927",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/tsimanapesotse.php",
+    "visitor_count": ""
   },
   {
     "name": "Tsingy de Bemaraha",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1997",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
-  },
-  {
-    "name": "Tsingy de Namoroka",
-    "country": "MG",
-    "established": "2002",
-    "latitude": "",
-    "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/bemaraha.php",
+    "visitor_count": ""
   },
   {
     "name": "Zahamena",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1997",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/zahamena.php",
+    "visitor_count": ""
   },
   {
     "name": "Zombitse-Vohibasia",
+    "color": "",
     "country": "MG",
+    "description": "",
     "established": "1997",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "size": "",
+    "size_unit": "km²",
+    "url": "http://www.parcs-madagascar.com/parcs/zombitse.php",
+    "visitor_count": ""
   },
   {
     "name": "Abel Tasman",
