@@ -578,6 +578,24 @@
     "image": ""
   },
   {
+    "name": "Tajik",
+    "color": "#5fadbc",
+    "country": "TJ",
+    "description": "Tajik National Park encompasses almost the entire Pamir Mountains, the third highest mountain ecosystem in the world. The outstanding scenic values are enhanced by the landform juxtaposition of heavily-glaciated high peaks and high plateaux with an alpine desert character.",
+    "established": "1992",
+    "images": [
+      "https://www.naturalworldheritagesites.org/wp-content/uploads/2021/04/Tajik-National-Park-Mountains-of-the-Pamirs.jpg",
+      "https://news.cgtn.com/news/3d3d414e32416a4e34457a6333566d54/img/3a4053e6d6f14a829de531540f14c302/3a4053e6d6f14a829de531540f14c302.jpg",
+      "https://cdn.elebase.io/173fe953-8a63-4a8a-8ca3-1bacb56d78a5/b54fe1da-4d05-4049-80c6-e2f3198d3ed0-1638499542_4-krot-info-p-natsionalnii-park-tadzhikistana-krasivie-f-6---.jpg?w=1000&h=500&fit=crop&q=75"
+    ],
+    "latitude": "38.41286648572102",
+    "longitude": "73.087748997699",
+    "size": "26,116.74",
+    "size_unit": "km²",
+    "url": "https://whc.unesco.org/en/list/1252/",
+    "visitor_count": ""
+  },
+  {
     "name": "Chimanimani",
     "country": "ZW",
     "established": "",
