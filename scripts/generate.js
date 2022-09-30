@@ -2,9 +2,12 @@ const fs = require("fs");
 
 const countries = require('../data/countries.json');
 const parks = require('../data/parks.json');
-const template = fs.readFileSync('template.html').toString();
-const index = fs.readFileSync('index.html').toString();
+
+const template = fs.readFileSync('templates/park-page.html').toString();
+const homepageTemplate = fs.readFileSync('templates/index.html').toString();
+
 const imageDivTemplate = '<div class="col-12 col-md-6 col-lg-4"><img src="%IMG_URL%" class="img-fluid img-thumbnail" /></div>'
+
 const countryNames = new Intl.DisplayNames(['en'], { type: 'region' });
 
 // First generate the homepage list
@@ -48,7 +51,7 @@ countries.forEach(country => {
   listBuilder += "</li>\n";
 });
 
-let homepage = index.replaceAll('%PARK_LIST%', listBuilder);
+let homepage = homepageTemplate.replaceAll('%PARK_LIST%', listBuilder);
 fs.writeFileSync('../index.html', homepage);
 
 // Then generate each park page

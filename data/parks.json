@@ -91,13 +91,21 @@
   },
   {
     "name": "Andohahela",
+    "color": "",
     "country": "MG",
-    "established": "1939",
-    "latitude": "",
-    "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "description": "Andohahela National Park is located in southeastern Madagascar and is characterized by two extreme ecosystems: endemic dry spiny forest and tropical rainforest, as well as a transitional zone. The park also houses a wetland and is only place where the rare Triangle Palm (Dypsis decaryi) palm grows in the wild.",
+    "established": "1998",
+    "images": [
+      "https://madagascar-tourisme.com/wp-content/uploads/2017/06/34693326942_583139ba88_h.jpg",
+      "https://media02.stockfood.com/largepreviews/MjIxMTk5NDU1Mw==/71354663-Andohahela-National-Park-entrance-Anosy-Mountains-south-east-Madagascar-Africa.jpg",
+      "https://i.pinimg.com/736x/07/43/44/074344afefdb685b5d03f187ece7e765--madagascar-national-parks.jpg"
+    ],
+    "latitude": "-24.75400988559863",
+    "longitude": "46.76654587075342",
+    "size": "760",
+    "size_unit": "km²",
+    "url": "https://www.wildmadagascar.org/conservation/parks/Andohahela.html",
+    "visitor_count": "1,300"
   },
   {
     "name": "Andringitra",

@@ -2,10 +2,16 @@
 
 See the website at https://www.rohannagar.com/parksoftheworld/.
 
-All pages are generated from the curated data compiled in `data/parks.json`. Please feel free
-to submit a pull request with corrections or additions to the data file. Once merged, the changes
-will be live on the website within minutes!
+All pages are generated from the curated data compiled in `data/parks.json`.
 
-Country data from https://github.com/risan/country-flag-emoji-json.
+Please feel free to submit a pull request with corrections or additions to the data file.
+Once merged, the changes will be live on the website within minutes!
 
-Individual page flag icons from https://github.com/lipis/flag-icons.
+## Credits
+
+Country data from [country-flag-emoji-json](https://github.com/risan/country-flag-emoji-json).
+
+Individual page flag icons from [flag-icons](https://github.com/lipis/flag-icons).
+
+Park data is sourced from many many places across the web. Park pages link to the page where
+most of the information was sourced, with other data mostly coming from Google Maps or Wikipedia.
