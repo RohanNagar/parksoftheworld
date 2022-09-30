@@ -33,7 +33,7 @@
     "size": "972,000",
     "size_unit": "km²",
     "url": "https://visitgreenland.com/about-greenland/national-park-2/",
-    "visitor_count": ""
+    "visitor_count": "150"
   },
   {
     "name": "Amber Mountain",
@@ -57,7 +57,7 @@
     "name": "Analamazaotra",
     "color": "#8dbd41",
     "country": "MG",
-    "description": "This is the most popular park within Parc National Andasibe Mantadia. The real draw of this reserve is the rare indri, Madagascar’s largest lemur, whose unforgettable wail can be heard emanating from the misty forest throughout the day, most commonly in the early morning. There are about 60 resident family groups of two to five indris each.",
+    "description": "The real draw of this reserve is the rare indri, Madagascar’s largest lemur, whose unforgettable wail can be heard emanating from the misty forest throughout the day, most commonly in the early morning. There are about 60 resident family groups of two to five indris each.",
     "established": "1989",
     "images": [
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/44/06/fe/analamazaotra-special.jpg?w=1200&h=-1&s=1",
@@ -66,8 +66,8 @@
     ],
     "latitude": "-18.938757515688774",
     "longitude": "48.433704791406925",
-    "size": "810",
-    "size_unit": "ha",
+    "size": "8.1",
+    "size_unit": "km²",
     "url": "https://www.parcs-madagascar.com/parcs/analamazaotra.php",
     "visitor_count": ""
   },
@@ -127,22 +127,24 @@
   },
   {
     "name": "Ankarafantsika",
-    "color": "",
+    "color": "#e49e56",
     "country": "MG",
-    "description": "",
+    "description": "The park consists of patches of thick dry tropical forest interspersed with less dense areas. There are also savannah, scrub and sandy eroded rock areas and some land is farmed by the indigenous Sakalava people.",
     "established": "2002",
     "images": [
-
+      "https://www.madamagazine.com/wp-content/uploads/2013/07/DSC_6854.jpg",
+      "https://www.travel2mada.com/uploads/ankarafantsika.png",
+      "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lake_Ravelobe%2C_Ankarafantsika_National_Park%2C_Madagascar.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "size": "",
+    "latitude": "-16.22247461248744",
+    "longitude": "46.94165676415938",
+    "size": "1365.13",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/ankarafantsika.php",
     "visitor_count": ""
   },
   {
-    "name": "Baie de Baly",
+    "name": "Bay of Baly",
     "color": "",
     "country": "MG",
     "description": "",
@@ -206,7 +208,7 @@
     "visitor_count": ""
   },
   {
-    "name": "Mananara Nord",
+    "name": "Mananara North",
     "color": "",
     "country": "MG",
     "description": "",
@@ -270,7 +272,7 @@
     "visitor_count": ""
   },
   {
-    "name": "Midongy du sud",
+    "name": "Midongy of the South",
     "color": "",
     "country": "MG",
     "description": "",
