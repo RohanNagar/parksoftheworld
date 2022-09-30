@@ -57,7 +57,7 @@
     "name": "Analamazaotra",
     "color": "#8dbd41",
     "country": "MG",
-    "description": "TThis is the most popular park within Parc National Andasibe Mantadia. The real draw of this reserve is the rare indri, Madagascar’s largest lemur, whose unforgettable wail can be heard emanating from the misty forest throughout the day, most commonly in the early morning. There are about 60 resident family groups of two to five indris each.",
+    "description": "This is the most popular park within Parc National Andasibe Mantadia. The real draw of this reserve is the rare indri, Madagascar’s largest lemur, whose unforgettable wail can be heard emanating from the misty forest throughout the day, most commonly in the early morning. There are about 60 resident family groups of two to five indris each.",
     "established": "1989",
     "images": [
       "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/44/06/fe/analamazaotra-special.jpg?w=1200&h=-1&s=1",
@@ -72,14 +72,22 @@
     "visitor_count": ""
   },
   {
-    "name": "Andasibe-Mantadia",
+    "name": "Andasibe-Mantadi",
+    "color": "#878f97",
     "country": "MG",
+    "description": "This rainforest is habitat to a vast species biodiversity, including many endemic rare species and endangered species, including 11 lemur species. The park's two component parts are Mantadia National Park and Analamazoatra Reserve, which is best known for its population of Madagascar's largest lemur, the indri.",
     "established": "1989",
-    "latitude": "",
-    "longitude": "",
-    "url": "",
-    "description": "",
-    "image": ""
+    "images": [
+      "https://madagascar-tourisme.com/wp-content/uploads/2017/07/34478786680_cf16ad7adc_k.jpg",
+      "https://static.vecteezy.com/system/resources/previews/001/358/496/large_2x/waterfall-andasibe-mantadia-national-park-madagascar-photo.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1e/84/29/the-main-entrance-of.jpg?w=1200&h=-1&s=1"
+    ],
+    "latitude": "-18.83481753061349",
+    "longitude": "48.459017149712764",
+    "size": "155",
+    "size_unit": "km²",
+    "url": "https://madagascar-tourisme.com/en/discover/the-east/andasibe-mantadia/",
+    "visitor_count": "22,110"
   },
   {
     "name": "Andohahela",
