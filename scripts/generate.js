@@ -1,10 +1,57 @@
 const fs = require("fs");
 
+const countries = require('../data/countries.json');
 const parks = require('../data/parks.json');
 const template = fs.readFileSync('template.html').toString();
+const index = fs.readFileSync('index.html').toString();
 const imageDivTemplate = '<div class="col-12 col-md-6 col-lg-4"><img src="%IMG_URL%" class="img-fluid img-thumbnail" /></div>'
 const countryNames = new Intl.DisplayNames(['en'], { type: 'region' });
 
+// First generate the homepage list
+console.log('Generating homepage...')
+
+// Sort countries alphabetically by name
+countries.sort((a, b) => {
+  let textA = a.name.toUpperCase();
+  let textB = b.name.toUpperCase();
+
+  return textA.localeCompare(textB);
+});
+
+// Map country to list of parks
+const countryParks = new Map();
+countries.forEach(country => {
+  countryParks.set(country.code.toUpperCase(), []);
+});
+
+parks.forEach(park => {
+  var currentList = countryParks.get(park.country.toUpperCase());
+  currentList.push(park);
+})
+
+// Build HTML list
+var listBuilder = "";
+
+countries.forEach(country => {
+  const fullParkList = countryParks.get(country.code.toUpperCase());
+
+  listBuilder += "<li>";
+  listBuilder += country.emoji + " " + country.name;
+  listBuilder += "<ul id=\"" + country.code + "\">"
+
+  fullParkList.forEach(p => {
+    const parkUrl = 'parks/' + p.country.toLowerCase() + '/' + p.name.toLowerCase().replaceAll(' ', '-')
+    listBuilder += "<li><a href=" + parkUrl + ">" + p.name + "</a></li>"
+  });
+
+  listBuilder += "</ul>";
+  listBuilder += "</li>\n";
+});
+
+let homepage = index.replaceAll('%PARK_LIST%', listBuilder);
+fs.writeFileSync('../index.html', homepage);
+
+// Then generate each park page
 parks.forEach(park => {
   console.log("Generating page for park: " + park.name);
 
