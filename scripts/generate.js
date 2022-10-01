@@ -80,10 +80,20 @@ parks.forEach(park => {
     images += imageDivTemplate.replaceAll('%IMG_URL%', image);
   });
 
+  var memberships = '';
+
+  if (park.unesco_site) {
+    memberships += '<span class="badge rounded-pill" style="background-color: #2f77cd; margin-right: 5px;"><i class="fas fa-globe"></i> UNESCO World Heritage Site</span>'
+  }
+
+  if (park.dark_sky_park) {
+    memberships += '<span class="badge rounded-pill" style="background-color: #031233;"><i class="fas fa-meteor"></i> International Dark Sky Park</span>'
+  }
+
   let pageHtml = template
     .replaceAll('%PARK_NAME%', name)
     .replaceAll('%PARK_DESC%', description)
-    .replaceAll('%ESTABLISHED%', park.established)
+    .replaceAll('%ESTABLISHED%', established)
     .replaceAll('%COUNTRY%', country)
     .replaceAll('%COUNTRY_CODE%', countryCode.toLowerCase())
     .replaceAll('%PARK_URL%', homepage)
@@ -93,7 +103,8 @@ parks.forEach(park => {
     .replaceAll('%IMAGE_DIVS%', images)
     .replaceAll('%HEX_COLOR%', color)
     .replaceAll('%LATITUDE%', latitude)
-    .replaceAll('%LONGITUDE%', longitude);
+    .replaceAll('%LONGITUDE%', longitude)
+    .replaceAll('%MEMBERSHIPS%', memberships);
 
   let directory = '../parks/' + countryCode.toLowerCase()
   let filePath = directory + '/' + name.toLowerCase().replaceAll(' ', '-') + '.html';
