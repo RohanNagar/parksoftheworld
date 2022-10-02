@@ -145,16 +145,18 @@
   },
   {
     "name": "Bay of Baly",
-    "color": "",
+    "color": "#e7d7b3",
     "country": "MG",
-    "description": "",
+    "description": "The Baie de Baly National Park is the only known natural habitat of the critically endangered Angonoka tortoise or ploughshare tortoise (Astrochelys yniphora). Other rare animals found in this park is the Madagascan sideneck turtle (Erymnochelys madagascariensis), as well as the dugong, a marine mammal and the Madagascar fish eagle.",
     "established": "1997",
     "images": [
-
+      "https://ndaoitravel.com/wp-content/uploads/2017/06/BB.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/ce/Astrochelys_yniphora.jpg",
+      "https://wildsafariguide.com/wp-content/uploads/2021/04/Pirogue.png"
     ],
-    "latitude": "",
-    "longitude": "",
-    "size": "",
+    "latitude": "-16.021551356168267",
+    "longitude": "45.24100992817163",
+    "size": "571.42",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/baie_de_baly.php",
     "visitor_count": ""
@@ -412,6 +414,7 @@
     "longitude": "",
     "size": "",
     "size_unit": "km²",
+    "unesco_site": true,
     "url": "http://www.parcs-madagascar.com/parcs/bemaraha.php",
     "visitor_count": ""
   },
