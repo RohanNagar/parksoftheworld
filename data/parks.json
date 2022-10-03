@@ -163,48 +163,54 @@
   },
   {
     "name": "Isalo",
-    "color": "",
+    "color": "#9ae34b",
     "country": "MG",
-    "description": "",
+    "description": "A sandstone landscape that has been dissected by wind and water erosion into rocky outcrops, plateaus, extensive plains and up to 200 meter deep canyons.",
     "established": "1962",
     "images": [
-
+      "https://www.tripsavvy.com/thmb/ngFwcB5gnSU9_nH9F7LEN0BZ3U4=/1880x1410/smart/filters:no_upscale()/GettyImages-119090690-5ba3594d4cedfd002516551e.jpg",
+      "https://www.abercrombiekent.co.uk/-/media/abercrombieandkent/images/page-header-images/africa/madagascar/isalo-national-park/isalo_0000_madagascar-la-fenetre-shutterstock_195250958.jpg?la=en&hash=ACB957836065F2721D40520A42EF3832522BC4FC",
+      "https://www.naturalworldsafaris.com/media/3247/madagascar-tourist-board-queen-of-isalo.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "size": "",
+    "latitude": "-22.465435422068516",
+    "longitude": "45.26180308382561",
+    "size": "815.40",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/isalo.php",
     "visitor_count": ""
   },
   {
-    "name": "Kirindy Mite",
-    "color": "",
+    "name": "Kirindy Mitea",
+    "color": "#7d8287",
     "country": "MG",
-    "description": "",
+    "description": "Situated on the south-west coast of the Mozambique Channel, this park includes a marine area with seven small islands. The park contains many endemic animals and plants and claims to have the greatest density of primates in the world.",
     "established": "1997",
     "images": [
-
+      "https://labs.la.utexas.edu/ankoatsifaka/files/2014/12/IMG_8551.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2017/07/Kirindy-Weg-RN8.jpg",
+      "https://www.africatouroperators.org/wp-content/uploads/lemurs-Madagascar.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "size": "",
+    "latitude": "-20.739645883016635",
+    "longitude": "44.17200513962035",
+    "size": "722",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/kirindy-mite.php",
     "visitor_count": ""
   },
   {
     "name": "Lokobe",
-    "color": "",
+    "color": "#b0dfb4",
     "country": "MG",
-    "description": "",
-    "established": "1913",
+    "description": "Located on southeastern side of Nosy Be, an island off the coast of Madagascar, the park is known for its black lemurs and the beautiful Nosy Be panther chameleon.",
+    "established": "1927",
     "images": [
-
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg/568px-Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2016/07/Lokobe-Nationalpark-2-1000x525.jpg",
+      "https://www.hollandamerica.com/content/dam/hal/inventory-assets/excursions/grand-voyages/lokobe-national-park-lunch-021219-50008-c037.jpg.image.750.563.low.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "size": "",
+    "latitude": "-13.395337781527795",
+    "longitude": "48.324468677481384",
+    "size": "15.23",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/lokobe.php",
     "visitor_count": ""
