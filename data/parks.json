@@ -386,17 +386,20 @@
     "visitor_count": ""
   },
   {
-    "name": "Tsimanampetsotse",
+    "name": "Tsimanampetsotsa",
     "color": "",
     "country": "MG",
-    "description": "",
+    "description": "The national park contains and is named after Lake Tsimanampetsotsa, an important wetland which is registered as a Ramsar Wetland of International Importance. Subfossil remains of many different species, including giant tortoise, crocodiles, and eggshell fragments of elephant birds have been discovered in the park.",
     "established": "1927",
     "images": [
-
+      "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pachypodium_geayi_in_Tsimanampetsotsa%2C_Madagascar.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2006/12/IB_Strasse1.jpg",
+      "https://farm1.staticflickr.com/649/31715590666_142927cecb_o.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "size": "",
+    "latitude": "-24.144299467344002",
+    "longitude": "43.82915350883988",
+    "ramsar_site": true,
+    "size": "432",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/tsimanapesotse.php",
     "visitor_count": ""

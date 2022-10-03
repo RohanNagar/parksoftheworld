@@ -87,7 +87,11 @@ parks.forEach(park => {
   }
 
   if (park.dark_sky_park) {
-    memberships += '<span class="badge rounded-pill" style="background-color: #031233;"><i class="fas fa-meteor"></i> International Dark Sky Park</span>'
+    memberships += '<span class="badge rounded-pill" style="background-color: #031233; margin-right: 5px;"><i class="fas fa-meteor"></i> International Dark Sky Park</span>'
+  }
+
+  if (park.ramsar_site) {
+    memberships += '<span class="badge rounded-pill" style="background-color: #4ba7a9;"><i class="fas fa-water"></i> Ramsar Site</span>'
   }
 
   let pageHtml = template
