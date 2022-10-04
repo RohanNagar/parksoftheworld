@@ -736,102 +736,178 @@
   },
   {
     "name": "Chimanimani",
+    "color": "",
     "country": "ZW",
+    "description": "This park borders Mozambique in an area of rugged mountain grandeur, enhanced by many spectacular gorges and high peaks rising to 2436 metres. There are several streams cascading through the mountain formations as well as numerous mountain springs. Forest lovers will take a delight in the virgin forests of the area. There are no roads in this wild area and only footpaths and narrow tracks lead to the various places of interest.",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "-19.91216499537235",
     "longitude": "33.01531085101209",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/chimanimani-national-park/",
-    "description": "This park borders Mozambique in an area of rugged mountain grandeur, enhanced by many spectacular gorges and high peaks rising to 2436 metres. There are several streams cascading through the mountain formations as well as numerous mountain springs. Forest lovers will take a delight in the virgin forests of the area. There are no roads in this wild area and only footpaths and narrow tracks lead to the various places of interest.",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Chizarira",
+    "color": "",
     "country": "ZW",
+    "description": "This park is situated on top of the great Zambezi escarpment in the north western part of Zimbabwe, overlooking the mighty Zambezi Valley and upper waters of Lake Kariba.",
     "established": "1975",
+    "images": [
+
+    ],
     "latitude": "-17.744061581573295",
     "longitude": "27.878117015420194",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/chizarira-national-park/",
-    "description": "This park is situated on top of the great Zambezi escarpment in the north western part of Zimbabwe, overlooking the mighty Zambezi Valley and upper waters of Lake Kariba.",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Gonarezhou",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/gonarezhou-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Hwange",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/hwange-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Kazuma Pan",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/kazuma-pan-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Mana Pools",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {
+      "ramsar": true,
+      "unesco": true
+    },
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/mana-pools-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Matusadona",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/matusadona-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Nyanga",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/places-to-visit/nyanga-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Victoria Falls",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {
+      "ramsar": true,
+      "unesco": true
+    },
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/victoria-falls-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Zambezi",
+    "color": "",
     "country": "ZW",
+    "description": "",
     "established": "",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "https://www.zimparks.org.zw/zambezi-national-park/",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   }
 ]
