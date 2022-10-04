@@ -82,16 +82,22 @@ parks.forEach(park => {
 
   var memberships = '';
 
-  if (park.unesco_site) {
-    memberships += '<span class="badge rounded-pill" style="background-color: #2f77cd; margin-right: 5px;"><i class="fas fa-globe"></i> UNESCO World Heritage Site</span>'
-  }
+  if (park.memberships) {
+    if (park.memberships.unesco) {
+      memberships += '<span class="badge rounded-pill" style="background-color: #2f77cd; margin-right: 5px;"><i class="fas fa-globe"></i> UNESCO World Heritage Site</span>'
+    }
 
-  if (park.dark_sky_park) {
-    memberships += '<span class="badge rounded-pill" style="background-color: #031233; margin-right: 5px;"><i class="fas fa-meteor"></i> International Dark Sky Park</span>'
-  }
+    if (park.memberships.dark_sky) {
+      memberships += '<span class="badge rounded-pill" style="background-color: #031233; margin-right: 5px;"><i class="fas fa-meteor"></i> International Dark Sky Park</span>'
+    }
 
-  if (park.ramsar_site) {
-    memberships += '<span class="badge rounded-pill" style="background-color: #4ba7a9;"><i class="fas fa-water"></i> Ramsar Site</span>'
+    if (park.memberships.ramsar) {
+      memberships += '<span class="badge rounded-pill" style="background-color: #4ba7a9; margin-right: 5px;"><i class="fas fa-water"></i> Ramsar Site</span>'
+    }
+
+    if (park.memberships.iucn_green) {
+      memberships += '<span class="badge rounded-pill" style="background-color: #1e4f49; margin-right: 5px;"><i class="fas fa-leaf"></i> IUCN Green Listed</span>'
+    }
   }
 
   let pageHtml = template
