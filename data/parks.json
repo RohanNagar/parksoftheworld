@@ -492,133 +492,226 @@
   },
   {
     "name": "Abel Tasman",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1942",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Aoraki Mount Cook",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1953",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Arthur's Pass",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1929",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Egmont",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1900",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Fiordland",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1952",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Kahurangi",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1996",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Mount Aspiring",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1964",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Nelson Lakes",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1956",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Paparoa",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1987",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Rakiura",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "2002",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Tongariro",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1887",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {
+      "unesco": true
+    },
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Westland Tai Poutini",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1960",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Whanganui",
+    "color": "",
     "country": "NZ",
+    "description": "",
     "established": "1986",
+    "images": [
+
+    ],
     "latitude": "",
     "longitude": "",
+    "memberships": {},
+    "size": "",
+    "size_unit": "km²",
     "url": "",
-    "description": "",
-    "image": ""
+    "visitor_count": ""
   },
   {
     "name": "Tajik",

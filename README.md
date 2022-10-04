@@ -7,6 +7,28 @@ All pages are generated from the curated data compiled in `data/parks.json`.
 Please feel free to submit a pull request with corrections or additions to the data file.
 Once merged, the changes will be live on the website within minutes!
 
+## Park Data Format
+
+```json
+{
+  "name": "",
+  "color": "",
+  "country": "",
+  "description": "",
+  "established": "",
+  "images": [
+    
+  ],
+  "latitude": "",
+  "longitude": "",
+  "memberships": {},
+  "size": "",
+  "size_unit": "km²",
+  "url": "",
+  "visitor_count": ""
+},
+```
+
 ## Credits
 
 Country data from [country-flag-emoji-json](https://github.com/risan/country-flag-emoji-json).
