@@ -54,7 +54,7 @@
     "size": "182",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/montagne%20d%20ambre.php",
-    "visitor_count": ""
+    "visitor_count": "10,770"
   },
   {
     "name": "Analamazaotra",
@@ -89,7 +89,7 @@
     "latitude": "-18.83481753061349",
     "longitude": "48.459017149712764",
     "memberships": {},
-    "size": "155",
+    "size": "154.8",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/mantadia.php",
     "visitor_count": "22,110"
@@ -108,7 +108,7 @@
     "latitude": "-24.75400988559863",
     "longitude": "46.76654587075342",
     "memberships": {},
-    "size": "760",
+    "size": "760.2",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/andohahela.php",
     "visitor_count": "1,300"
@@ -127,10 +127,10 @@
     "latitude": "-22.21165571317014",
     "longitude": "46.922407990707256",
     "memberships": {},
-    "size": "31,160",
+    "size": "311.6",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/andringitra.php",
-    "visitor_count": ""
+    "visitor_count": "3,156"
   },
   {
     "name": "Ankarafantsika",
@@ -149,7 +149,7 @@
     "size": "1365.13",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/ankarafantsika.php",
-    "visitor_count": ""
+    "visitor_count": "4,421"
   },
   {
     "name": "Bay of Baly",
@@ -168,7 +168,7 @@
     "size": "571.42",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/baie_de_baly.php",
-    "visitor_count": ""
+    "visitor_count": "100"
   },
   {
     "name": "Isalo",
@@ -184,10 +184,10 @@
     "latitude": "-22.465435422068516",
     "longitude": "45.26180308382561",
     "memberships": {},
-    "size": "815.40",
+    "size": "815.4",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/isalo.php",
-    "visitor_count": ""
+    "visitor_count": "28,375"
   },
   {
     "name": "Kirindy Mitea",
@@ -213,7 +213,7 @@
     "color": "#b0dfb4",
     "country": "MG",
     "description": "Located on southeastern side of Nosy Be, an island off the coast of Madagascar, the park is known for its black lemurs and the beautiful Nosy Be panther chameleon.",
-    "established": "1927",
+    "established": "2014",
     "images": [
       "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg/568px-Panther_chameleon_%28Furcifer_pardalis%29_male_Nosy_Be.jpg",
       "https://www.madamagazine.com/wp-content/uploads/2016/07/Lokobe-Nationalpark-2-1000x525.jpg",
@@ -228,38 +228,44 @@
     "visitor_count": ""
   },
   {
-    "name": "Mananara North",
-    "color": "",
+    "name": "Mananara Nord",
+    "color": "#3c5e85",
     "country": "MG",
-    "description": "",
+    "description": "The Mananara Nord National Park consists of a land and marine park that are both rich in biodiversity as well as natural and original beauty. The marine park is the first created in Madagascar.",
     "established": "1989",
     "images": [
-
+      "https://en.unesco.org/sites/default/files/cover_mananara_biosphere_reserve_unesco_madagascar2_.jpg",
+      "https://www.parcs-madagascar.com/parcs/images/mananara%20nord/mananara%20nord.jpg",
+      "https://static1.evcdn.net/images/reduction/461931_w-1200_h-630_q-70_m-crop.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-16.49218801488088",
+    "longitude": "49.711593583952585",
     "memberships": {},
-    "size": "",
+    "size": "240",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/mananara-nord.php",
-    "visitor_count": ""
+    "visitor_count": "100"
   },
   {
     "name": "Marojejy",
-    "color": "",
+    "color": "#323530",
     "country": "MG",
-    "description": "",
-    "established": "1952",
+    "description": "Part of the World Heritage Site known as the Rainforests of the Atsinanana, Marojejy National Park is centered on the Marojejy Massif, a mountain chain that rises to an elevation of 2,132 meters.",
+    "established": "1998",
     "images": [
-
+      "https://www.madamagazine.com/wp-content/uploads/2013/07/Marojejy1.jpg",
+      "https://www.booking-hotel-madagascar.com/wp-content/uploads/2017/07/marojejy.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/2f/46/a2/start-of-hike-to-marojejy.jpg?w=700&h=-1&s=1"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size": "",
+    "latitude": "-14.457470800896697",
+    "longitude": "49.79435932349952",
+    "memberships": {
+      "unesco": true
+    },
+    "size": "600.5",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/marojejy.php",
-    "visitor_count": ""
+    "visitor_count": "1,362"
   },
   {
     "name": "Marolambo",
@@ -273,7 +279,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "1,942.9",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/marolambo.php",
     "visitor_count": ""
@@ -290,10 +296,10 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "2,405.2",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/masoala.php",
-    "visitor_count": ""
+    "visitor_count": "2,480"
   },
   {
     "name": "Midongy of the South",
@@ -307,7 +313,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "1,922",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/midongy%20du%20sud.php",
     "visitor_count": ""
@@ -343,7 +349,7 @@
     "memberships": {
       "iucn_green": true
     },
-    "size": "",
+    "size": "1,831.1",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/nosy%20hara.php",
     "visitor_count": ""
@@ -360,10 +366,10 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "3.1",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/nosy-tanihely.php",
-    "visitor_count": ""
+    "visitor_count": "22,051"
   },
   {
     "name": "Nosy Ve-Androka",
@@ -377,7 +383,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "19.6",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/nosy-ve-androka.php",
     "visitor_count": ""
@@ -394,10 +400,10 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "416",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/ranomafana.php",
-    "visitor_count": ""
+    "visitor_count": "21,032"
   },
   {
     "name": "Sahamalaza",
@@ -411,7 +417,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "260",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/sahamalaza.php",
     "visitor_count": ""
@@ -435,7 +441,7 @@
     "size": "432",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/tsimanapesotse.php",
-    "visitor_count": ""
+    "visitor_count": "1,186"
   },
   {
     "name": "Tsingy de Bemaraha",
@@ -451,10 +457,10 @@
     "memberships": {
       "unesco": true
     },
-    "size": "",
+    "size": "723.4",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/bemaraha.php",
-    "visitor_count": ""
+    "visitor_count": "9,561"
   },
   {
     "name": "Zahamena",
@@ -468,7 +474,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "423",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/zahamena.php",
     "visitor_count": ""
@@ -485,10 +491,10 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
+    "size": "363.1",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/zombitse.php",
-    "visitor_count": ""
+    "visitor_count": "2,822"
   },
   {
     "name": "Abel Tasman",
