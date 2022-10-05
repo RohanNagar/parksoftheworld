@@ -511,17 +511,19 @@
   },
   {
     "name": "Abel Tasman",
-    "color": "",
+    "color": "#449b7a",
     "country": "NZ",
-    "description": "",
+    "description": "The smallest of New Zealand's national parks, Abel Tasman consists of forested, hilly country to the north of the valleys of the Tākaka and Riwaka Rivers, and is bounded to the north by the waters of Golden Bay and Tasman Bay",
     "established": "1942",
     "images": [
-
+      "https://www.doc.govt.nz/thumbs/hero/contentassets/14d29b93cecf4d39bbb46b7e039f98d6/abel-tasman-water-sand-hero.jpg",
+      "https://www.moatrek.com/sites/default/files/styles/1200_x_630/public/2016-10/Able-Tasman-National-Park-Kayaks.jpg?itok=BssKbCTu",
+      "https://a.storyblok.com/f/95452/4549x3033/eae0ffd715/new-zealand-abel-tasman-national-park-estuary.jpg/m/1200x630/filters:focal(1989x1860:1990x1861)"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-40.90494648233701",
+    "longitude": "172.96707416893855",
     "memberships": {},
-    "size_in_km": null,
+    "size_in_km": 237.1,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park",
     "visitor_count": null
   },
@@ -529,17 +531,22 @@
     "name": "Aoraki Mount Cook",
     "color": "",
     "country": "NZ",
-    "description": "",
+    "description": "Aoraki / Mount Cook, New Zealand's highest mountain, and the eponymous village lie within the park. Additionally, glaciers cover 40% of the park area, most notably the Tasman Glacier.",
     "established": "1953",
     "images": [
-
+      "https://www.newzealand.com/assets/Tourism-NZ/Christchurch-Canterbury/9aa11093e3/img-1536989144-436-6533-p-4AE01862-F0F6-45CC-A4A8B61D309D3D12-2544003__aWxvdmVrZWxseQo_FocalPointCropWzM1MiwxMDI0LDUzLDUwLDc1LCJqcGciLDY1LDIuNV0.jpg",
+      "https://www.newzealand.com/assets/Tourism-NZ/Christchurch-Canterbury/4d8e0c5290/img-1536920282-5439-18788-p-66E27231-0F68-5D13-7EBBA7C0E3E95F82-2544003__aWxvdmVrZWxseQo_CropResizeWzEyMDAsNjMwLDc1LCJwbmciXQ.png",
+      "https://peakvisor.com/img/news/Mount-Cook-National-Park.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size_in_km": "",
+    "latitude": "-43.593003781682874",
+    "longitude": "170.262224665067",
+    "memberships": {
+      "dark_sky": "Reserve",
+      "unesco": true
+    },
+    "size_in_km": 721.6,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Arthur's Pass",
@@ -584,7 +591,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size_in_km": "",
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park",
     "visitor_count": ""
@@ -616,7 +625,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size_in_km": "",
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park",
     "visitor_count": ""
@@ -664,7 +675,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "dark_sky": "Sanctuary"
+    },
     "size_in_km": "",
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/rakiura-national-park",
     "visitor_count": ""
@@ -698,7 +711,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size_in_km": "",
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park",
     "visitor_count": ""

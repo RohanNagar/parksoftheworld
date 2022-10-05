@@ -88,7 +88,8 @@ parks.forEach(park => {
     }
 
     if (park.memberships.dark_sky) {
-      memberships += '<span class="badge rounded-pill" style="background-color: #031233; margin-right: 5px;"><i class="fas fa-meteor"></i> International Dark Sky Park</span>'
+      let darkSkyType = park.memberships.dark_sky;
+      memberships += '<span class="badge rounded-pill" style="background-color: #031233; margin-right: 5px;"><i class="fas fa-meteor"></i> International Dark Sky ' + darkSkyType + '</span>'
     }
 
     if (park.memberships.ramsar) {
