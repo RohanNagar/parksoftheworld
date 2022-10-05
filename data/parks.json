@@ -644,105 +644,117 @@
   },
   {
     "name": "Nelson Lakes",
-    "color": "",
+    "color": "#356092",
     "country": "NZ",
-    "description": "",
+    "description": "Centered at two large lakes, Rotoiti and Rotoroa, the park contains beech forests, multiple lakes, snow-covered mountains and valleys created by glaciers during the ice ages.",
     "established": "1956",
     "images": [
-
+      "https://www.doc.govt.nz/thumbs/hero/contentassets/289ca40948d14ab690a82c08794e5f11/lake-rotoiti-nelson-lakes-hero.jpg",
+      "https://seethesouthisland.com/wp-content/uploads/2019/06/lake-rotoiti-reflections-nelson-lakes-new-zealand.jpg",
+      "https://images.mapsofworld.com/allwonders/2015/09/lake-angelus-nelson-lakes-national-park-new-zealand.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-42.007423585637675",
+    "longitude": "172.63167682664312",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 1018.8,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Paparoa",
-    "color": "",
+    "color": "#a5a09c",
     "country": "NZ",
-    "description": "",
+    "description": "Luxuriant coastal forest, limestone cliffs and canyons, caves and underground streams, and an absolutely spectacular coastline, are all packed into one national park. The bizarre ‘pancake-stack’ coastal formations attract visitors to the area.",
     "established": "1987",
     "images": [
-
+      "https://www.doc.govt.nz/thumbs/hero/contentassets/0a1dd08a4e4c4b99a8120f9b149edfdd/paparoa-national-park-hero.jpg",
+      "https://newzealandtrails.com/assets/Uploads/_resampled/FillWyIxMjAwIiwiNjMwIl0/paparoa-national-park-new-zealand2.jpg",
+      "https://images.mapsofworld.com/allwonders/2015/09/punakaki-pancake-rocks-in-paparoa-national-park.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-42.091660595601105",
+    "longitude": "171.44965775999984",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 429.7,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Rakiura",
-    "color": "",
+    "color": "#356b71",
     "country": "NZ",
-    "description": "",
+    "description": "The newest national park in New Zealand, it covers about 85% of Stewart Island / Rakiura, New Zealand's third-largest island. Many native birds can be found within the park, and Rakiura offers perhaps the best opportunity anywhere in New Zealand for viewing kiwi in the wild.",
     "established": "2002",
     "images": [
-
+      "https://www.newzealand.com/assets/Tourism-NZ/Stewart-Island-Rakiura/c5313d5a2c/img-1536145513-9408-10607-p-6751B78B-FD4F-C557-29E5E1AFB1B14430-2544003__aWxvdmVrZWxseQo_CropResizeWzUwMCwzNzUsODAsInBuZyJd.png",
+      "https://images.alltrails.com/eyJidWNrZXQiOiJhc3NldHMuYWxsdHJhaWxzLmNvbSIsImtleSI6InVwbG9hZHMvcGhvdG8vaW1hZ2UvMzM1NjA4MzQvM2QxMDc0Y2QxNDRkNjU3YjEyYTVjYTEwMTM0NGYyODYuanBnIiwiZWRpdHMiOnsidG9Gb3JtYXQiOiJqcGVnIiwicmVzaXplIjp7IndpZHRoIjo1MDAsImhlaWdodCI6NTAwLCJmaXQiOiJpbnNpZGUifSwicm90YXRlIjpudWxsLCJqcGVnIjp7InRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pc2VTY2FucyI6dHJ1ZSwicXVhbnRpc2F0aW9uVGFibGUiOjN9fX0=",
+      "https://parksandtrips.com/wp-content/uploads/2022/03/sebastien-goldberg-NmNye-Ky190-unsplash.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-46.997210822315786",
+    "longitude": "167.8372221268074",
     "memberships": {
       "dark_sky": "Sanctuary"
     },
-    "size_in_km": "",
+    "size_in_km": 1399.6,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/rakiura-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Tongariro",
-    "color": "",
+    "color": "#5fd5ac",
     "country": "NZ",
-    "description": "",
+    "description": "New Zealand's oldest national park, and the sixth national park established in the world, Tongariro is a dual UNESCO World Heritage Site of mixed cultural and natural values.",
     "established": "1887",
     "images": [
-
+      "https://static.dw.com/image/46562005_401.jpg",
+      "https://www.lovetaupo.com/media/2960345/tongariro-national-park-mt-ngauruhoe-winter.jpg?anchor=center&mode=crop&width=1920&height=1080&rnd=132300517769900000",
+      "https://cdn.audleytravel.com/4431/3164/79/7992507-emerald-lakes-tongariro-national-park.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-39.192096290819634",
+    "longitude": "175.5935176564929",
     "memberships": {
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 795.96,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Westland Tai Poutini",
-    "color": "",
+    "color": "#8e97aa",
     "country": "NZ",
-    "description": "",
+    "description": "The park extends from the highest peaks of the Southern Alps/Kā Tiritiri o te Moana, to the rugged and remote beaches of the wild West Coast.",
     "established": "1960",
     "images": [
-
+      "https://www.doc.govt.nz/thumbs/hero/globalassets/images/places/west-coast/westland-tai-poutini-national-park/lake-matheson/lake-matheson-aoraki-1920.jpg",
+      "https://cdn.britannica.com/44/124844-050-889D7067/Franz-Josef-Glacier-Westland-Tai-Poutini-National.jpg",
+      "https://previews.123rf.com/images/hzind/hzind1707/hzind170700217/90040925-franz-josef-glacier-located-in-westland-tai-poutini-national-park-on-the-west-coast-of-new-zealand.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-43.49992215485115",
+    "longitude": "170.1666345113502",
     "memberships": {
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 1319.8,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Whanganui",
-    "color": "",
+    "color": "#3a4015",
     "country": "NZ",
-    "description": "",
+    "description": "Despite bordering the Whanganui River, the river itself is not part of the park. The park protects the habitat of several thousand North Island brown kiwi, and the also-endangered blue duck.",
     "established": "1986",
     "images": [
-
+      "https://www.doc.govt.nz/globalassets/images/places/manawatu-whanganui/bridge-to-nowhere/bridge-to-nowhere-1200.jpg",
+      "https://www.doc.govt.nz/thumbs/hero/contentassets/0f8cda4fd80c419283f871d4660a7991/whanganui-river-lookout-hero.jpg",
+      "https://resources.stuff.co.nz/content/dam/images/4/y/p/1/w/a/image.related.StuffLandscapeThreeByTwo.1464x976.21cas9.png/1603912531391.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-39.27222233965185",
+    "longitude": "174.91931892655936",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 742,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Tajik",
