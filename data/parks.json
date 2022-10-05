@@ -529,7 +529,7 @@
   },
   {
     "name": "Aoraki Mount Cook",
-    "color": "",
+    "color": "#d5d5d4",
     "country": "NZ",
     "description": "Aoraki / Mount Cook, New Zealand's highest mountain, and the eponymous village lie within the park. Additionally, glaciers cover 40% of the park area, most notably the Tasman Glacier.",
     "established": "1953",
@@ -550,87 +550,97 @@
   },
   {
     "name": "Arthur's Pass",
-    "color": "",
+    "color": "#b2993a",
     "country": "NZ",
-    "description": "",
+    "description": "The park is very distinctly split by the main divide of the South Island. The eastern side is typically drier and consists of mountain beech forest and wide riverbeds, while the western side contains dense rainforest.",
     "established": "1929",
     "images": [
-
+      "https://myqueenstowndiary.com/wp-content/uploads/2021/07/Otira-Viaduct-Lookout.jpg",
+      "https://peakvisor.com/img/news/Arthurs-Pass-national-park.jpg",
+      "https://www.doc.govt.nz/thumbs/hero/contentassets/e3587832b8884bb9bf34aebe3a047fbd/walking-arthurs-pass-hero.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-42.93242834981011",
+    "longitude": "171.7252384566362",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 1184.7,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Egmont",
-    "color": "",
+    "color": "#27557a",
     "country": "NZ",
-    "description": "",
+    "description": "Egmont National Park covers the dormant stratovolcano Mount Taranaki and its surrounding forest. The forest is surrounded by vast plains, giving the park a distinct circular shape.",
     "established": "1900",
     "images": [
-
+      "https://www.newzealand.com/assets/Tourism-NZ/Taranaki/Taranaki-0004_credit-Sophie-Kelly__aWxvdmVrZWxseQo_CropResizeWzEyMDAsNjMwLDc1LCJqcGciXQ.jpg",
+      "https://lh3.googleusercontent.com/-RuwjZ-nOZWU/Vpc7jOPgfgI/AAAAAAABKuE/K5X8TxCJlgw/mount-taranaki-56.jpg?imgmax=800",
+      "https://www.tripsavvy.com/thmb/dJTUAG8MFvA3-2lTZlWKBB3CFEg=/2000x1500/filters:fill(auto,1)/Taranaki-c2077790762847a29cc057ab61ee957a.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-39.29881667025322",
+    "longitude": "174.06621330745693",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 341.7,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Fiordland",
-    "color": "",
+    "color": "#e1dddc",
     "country": "NZ",
-    "description": "",
+    "description": "Fiordland is by far the largest of the national parks in New Zealand, with an area of 12,607 square kilometres, and a major part of the Te Wahipounamu World Heritage Site.",
     "established": "1952",
     "images": [
-
+      "https://cdn.britannica.com/51/59851-050-02ED07E5/Mitre-Peak-waters-Milford-Sound-Fiordland-National.jpg",
+      "https://www.worldatlas.com/upload/bc/3e/37/shutterstock-1402082300.jpg",
+      "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/181000/181041-Southland.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-45.462838730570425",
+    "longitude": "167.5422022979201",
     "memberships": {
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 12607,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Kahurangi",
-    "color": "",
+    "color": "#d09dae",
     "country": "NZ",
-    "description": "",
+    "description": "Kahurangi is New Zealand's second largest national park. In places it is an untracked wilderness, elsewhere a wonderful network of tracks lets you explore wild rivers, high plateaux and alpine herbfields, and coastal forests.",
     "established": "1996",
     "images": [
-
+      "https://www.doc.govt.nz/thumbs/hero/contentassets/b739b40e82a94caf8d2388624cec0e9b/kahurangi-nat-park-hero.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Lake_Sylvester_during_the_sunrise%2C_Kahurangi%2C_New_Zealand.jpg/650px-Lake_Sylvester_during_the_sunrise%2C_Kahurangi%2C_New_Zealand.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/View_towards_Mt_Patriarch%2C_Wangapeka_Track%2C_Kahurangi%2C_New_Zealand_04.jpg/1200px-View_towards_Mt_Patriarch%2C_Wangapeka_Track%2C_Kahurangi%2C_New_Zealand_04.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-41.09848453912171",
+    "longitude": "172.53507656894448",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 4529,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/kahurangi-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Mount Aspiring",
-    "color": "",
+    "color": "#707779",
     "country": "NZ",
-    "description": "",
+    "description": "Named for Mt Aspiring, one of New Zealand's highest peaks, this park is a dreamland of mountains, glaciers, river valleys and alpine lakes.",
     "established": "1964",
     "images": [
-
+      "https://upload.wikimedia.org/wikipedia/commons/6/65/Matukituki_valley.jpg",
+      "https://www.newzealand.com/assets/Tourism-NZ/Wanaka/8658819e32/img-1536369210-7334-12947-F4583862-F565-BA1E-776D9795DDE5E0BF__aWxvdmVrZWxseQo_CropResizeWzEyMDAsNjMwLDc1LCJqcGciXQ.jpg",
+      "https://peakvisor.com/photo/Mount-Aspiring-National-Park-Mount-Aspiring.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-44.23016683374218",
+    "longitude": "168.83702366772664",
     "memberships": {
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 3562,
     "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Nelson Lakes",
