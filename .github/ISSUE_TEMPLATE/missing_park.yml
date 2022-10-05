@@ -9,6 +9,8 @@ body:
     attributes:
       value: |
         Thanks for taking the time to report a missing or incorrect park!
+
+        **Please note that submitting a pull request with your proposed changes is an often quicker way of getting the changes onto the website!**
   - type: input
     id: park-name
     attributes:

@@ -414,15 +414,17 @@
   },
   {
     "name": "Ranomafana",
-    "color": "",
+    "color": "#91aa37",
     "country": "MG",
-    "description": "",
+    "description": "With more than 41,600 hectares of tropical rainforest, it is home to several rare species of flora and fauna including the golden bamboo lemur, the greater bamboo lemur, black and white ruffed lemur and Milne-Edwards sifaka, and over 130 species of frogs.",
     "established": "1991",
     "images": [
-
+      "https://www.naturalworldsafaris.com/media/3216/madagascar-robin-hoskyns-golden-bamboo-lemur-critically-endangered-ranomafana.jpg",
+      "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/09/acj-1309-ranomafana-national-park-12.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2013/07/IB_calumma-parsonii12.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-21.26390111130698",
+    "longitude": "47.419280968464406",
     "memberships": {
       "unesco": true
     },
@@ -433,16 +435,20 @@
   },
   {
     "name": "Sahamalaza",
-    "color": "",
+    "color": "#a3bfb9",
     "country": "MG",
-    "description": "",
+    "description": "The national park is home to some of the last remaining populations of the critically endangered blue-eyed black lemur and the Sahamalaza sportive lemur, both endemic to this region.",
     "established": "2007",
     "images": [
-
+      "https://aeecl.org/wp-content/uploads/2020/03/DSCF4842-768x1024.jpg",
+      "https://www.iucn.org/sites/default/files/content/images/2017/15b-014-022_eulemur_flavifrons_male_c_guy_randriatahina.jpg",
+      "https://www.iucn.org/sites/default/files/content/images/2017/15b-014-023_eulemur_flavifrons_female_c_guy_randriatahina.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
+    "latitude": "-14.196360773487214",
+    "longitude": "47.9560889530228",
+    "memberships": {
+      "ramsar": true
+    },
     "size": "260",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/sahamalaza.php",
@@ -450,7 +456,7 @@
   },
   {
     "name": "Tsimanampetsotsa",
-    "color": "",
+    "color": "#df7930",
     "country": "MG",
     "description": "The national park contains and is named after Lake Tsimanampetsotsa, an important wetland which is registered as a Ramsar Wetland of International Importance. Subfossil remains of many different species, including giant tortoise, crocodiles, and eggshell fragments of elephant birds have been discovered in the park.",
     "established": "1927",
@@ -471,15 +477,17 @@
   },
   {
     "name": "Tsingy de Bemaraha",
-    "color": "",
+    "color": "#73787f",
     "country": "MG",
-    "description": "",
+    "description": "The Tsingys are karstic plateaus in which groundwater has undercut the elevated uplands, and has gouged caverns and fissures into the limestone. In several regions on western Madagascar, centering on the park and adjacent Nature Reserve, the superposition of vertical and horizontal erosion patterns has created dramatic \"forests\" of limestone needles.",
     "established": "1997",
     "images": [
-
+      "https://www.tripsavvy.com/thmb/IQIsds9agn43rwnQCQmBw1VyVto=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/tsingy-de-bemaraha-in-madagascar-1211285286-7b7db92120ff4c3f91b704827c2c7104.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/2/28/Tsingy_de_Bemaraha_Strict_Nature_Reserve.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsingy_de_Bemaraha.jpg/568px-Tsingy_de_Bemaraha.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-18.919823498556685",
+    "longitude": "44.79439112609672",
     "memberships": {
       "unesco": true
     },
@@ -490,15 +498,17 @@
   },
   {
     "name": "Zahamena",
-    "color": "",
+    "color": "#488c2a",
     "country": "MG",
-    "description": "",
+    "description": "Part of the Rainforests of the Atsinanana, the park is habitat for 112 bird species, 46 reptile species, 62 species of amphibians and 48 species of mammals, including 13 species of lemurs.",
     "established": "1997",
     "images": [
-
+      "https://lh3.googleusercontent.com/p/AF1QipO5SivfYel-SMnH93JcVe5i7ZrQvd_6TddUng29=h1000-w1000",
+      "https://www.madamagazine.com/wp-content/uploads/2017/02/zahamena13.jpg",
+      "http://zahamenatropicalrainforest.weebly.com/uploads/2/8/3/9/28395645/7476276_orig.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-17.612158250804594",
+    "longitude": "48.779387439572005",
     "memberships": {
       "unesco": true
     },
@@ -509,15 +519,17 @@
   },
   {
     "name": "Zombitse-Vohibasia",
-    "color": "",
+    "color": "#9e968a",
     "country": "MG",
-    "description": "",
+    "description": "The national park falls within the ecoregion classified as Madagascar succulent woodlands, an ecoregion that is known for high local endemicity and that is transitional between the spiny thicket and the dry deciduous woodland ecoregions.",
     "established": "1997",
     "images": [
-
+      "https://www.matoketours.com/media/1171522/Zombitse%20National%20Park.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2015/05/Zombitse-Vohibasia-5-Larvensifaka.jpg",
+      "https://www.africatouroperators.org/wp-content/uploads/Zombitse.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-22.841584735117248",
+    "longitude": "44.68184842616237",
     "memberships": {},
     "size": "363.1",
     "size_unit": "km²",
