@@ -61,7 +61,7 @@
                         <div class="row">
                             <div class="col">
                                 <h6 class="card-title text-uppercase text-muted mb-0">Country</h6>
-                                <span class="h4 font-weight-bold mb-0"><span class="counter-count">%COUNTRY%</span></span>
+                                <span class="h4 font-weight-bold mb-0">%COUNTRY%</span>
                             </div>
                             <div class="col-auto">
                                 <span class="fi fi-%COUNTRY_CODE%" style="font-size: 30px;"></span>
@@ -166,6 +166,28 @@
       maxZoom: 19,
       attribution: '© OpenStreetMap'
     }).addTo(map);
+
+    // Number count animation
+    $('.counter-count').each(function() {
+      var numberValue = Number($(this).text());
+
+      if (Number.isNaN(numberValue)) {
+        return;
+      }
+
+      $(this).prop('Counter', 0).animate({
+        Counter: $(this).text()
+      }, {
+        duration: 1000,
+        easing: 'swing',
+        step: function(now) {
+          $(this).text(Math.ceil(now).toLocaleString());
+        },
+        done: function(now) {
+          $(this).text(numberValue.toLocaleString());
+        }
+      });
+    });
 </script>
 </body>
 

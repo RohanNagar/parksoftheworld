@@ -13,10 +13,9 @@
     "latitude": "-7.949863615550642",
     "longitude": "-14.345047666855507",
     "memberships": {},
-    "size": "",
-    "size_unit": "",
+    "size_in_km": null,
     "url": "https://www.ascension.gov.ac/map-marker/green-mountain",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Northeast Greenland",
@@ -32,10 +31,9 @@
     "latitude": "76.00127418800315",
     "longitude": "-30.007434020763295",
     "memberships": {},
-    "size": "972,000",
-    "size_unit": "km²",
+    "size_in_km": 972000,
     "url": "https://visitgreenland.com/about-greenland/national-park-2/",
-    "visitor_count": "150"
+    "visitor_count": 150
   },
   {
     "name": "Amber Mountain",
@@ -51,10 +49,9 @@
     "latitude": "-12.61875891606798",
     "longitude": "49.14997854232979",
     "memberships": {},
-    "size": "182",
-    "size_unit": "km²",
+    "size_in_km": 182,
     "url": "http://www.parcs-madagascar.com/parcs/montagne%20d%20ambre.php",
-    "visitor_count": "10,770"
+    "visitor_count": 10770
   },
   {
     "name": "Analamazaotra",
@@ -70,10 +67,9 @@
     "latitude": "-18.938757515688774",
     "longitude": "48.433704791406925",
     "memberships": {},
-    "size": "8.1",
-    "size_unit": "km²",
+    "size_in_km": 8.1,
     "url": "https://www.parcs-madagascar.com/parcs/analamazaotra.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Andasibe-Mantadia",
@@ -89,10 +85,9 @@
     "latitude": "-18.83481753061349",
     "longitude": "48.459017149712764",
     "memberships": {},
-    "size": "154.8",
-    "size_unit": "km²",
+    "size_in_km": 154.8,
     "url": "http://www.parcs-madagascar.com/parcs/mantadia.php",
-    "visitor_count": "22,110"
+    "visitor_count": 22110
   },
   {
     "name": "Andohahela",
@@ -110,10 +105,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "760.2",
-    "size_unit": "km²",
+    "size_in_km": 760.2,
     "url": "http://www.parcs-madagascar.com/parcs/andohahela.php",
-    "visitor_count": "1,300"
+    "visitor_count": 1300
   },
   {
     "name": "Andringitra",
@@ -131,10 +125,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "311.6",
-    "size_unit": "km²",
+    "size_in_km": 311.6,
     "url": "http://www.parcs-madagascar.com/parcs/andringitra.php",
-    "visitor_count": "3,156"
+    "visitor_count": 3156
   },
   {
     "name": "Ankarafantsika",
@@ -152,10 +145,9 @@
     "memberships": {
       "ramsar": true
     },
-    "size": "1365.13",
-    "size_unit": "km²",
+    "size_in_km": 1365.13,
     "url": "http://www.parcs-madagascar.com/parcs/ankarafantsika.php",
-    "visitor_count": "4,421"
+    "visitor_count": 4421
   },
   {
     "name": "Bay of Baly",
@@ -171,10 +163,9 @@
     "latitude": "-16.021551356168267",
     "longitude": "45.24100992817163",
     "memberships": {},
-    "size": "571.42",
-    "size_unit": "km²",
+    "size_in_km": 571.42,
     "url": "http://www.parcs-madagascar.com/parcs/baie_de_baly.php",
-    "visitor_count": "100"
+    "visitor_count": 100
   },
   {
     "name": "Isalo",
@@ -190,10 +181,9 @@
     "latitude": "-22.465435422068516",
     "longitude": "45.26180308382561",
     "memberships": {},
-    "size": "815.4",
-    "size_unit": "km²",
+    "size_in_km": 815.4,
     "url": "http://www.parcs-madagascar.com/parcs/isalo.php",
-    "visitor_count": "28,375"
+    "visitor_count": 28375
   },
   {
     "name": "Kirindy Mitea",
@@ -209,10 +199,9 @@
     "latitude": "-20.739645883016635",
     "longitude": "44.17200513962035",
     "memberships": {},
-    "size": "722",
-    "size_unit": "km²",
+    "size_in_km": 722,
     "url": "http://www.parcs-madagascar.com/parcs/kirindy-mite.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Lokobe",
@@ -228,10 +217,9 @@
     "latitude": "-13.395337781527795",
     "longitude": "48.324468677481384",
     "memberships": {},
-    "size": "15.23",
-    "size_unit": "km²",
+    "size_in_km": 15.23,
     "url": "http://www.parcs-madagascar.com/parcs/lokobe.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Mananara Nord",
@@ -247,10 +235,9 @@
     "latitude": "-16.49218801488088",
     "longitude": "49.711593583952585",
     "memberships": {},
-    "size": "240",
-    "size_unit": "km²",
+    "size_in_km": 240,
     "url": "http://www.parcs-madagascar.com/parcs/mananara-nord.php",
-    "visitor_count": "100"
+    "visitor_count": 100
   },
   {
     "name": "Marojejy",
@@ -268,10 +255,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "600.5",
-    "size_unit": "km²",
+    "size_in_km": 600.5,
     "url": "http://www.parcs-madagascar.com/parcs/marojejy.php",
-    "visitor_count": "1,362"
+    "visitor_count": 1362
   },
   {
     "name": "Marolambo",
@@ -287,10 +273,9 @@
     "latitude": "-19.672096947174722",
     "longitude": "47.51324881076798",
     "memberships": {},
-    "size": "1,942.9",
-    "size_unit": "km²",
+    "size_in_km": 1942.9,
     "url": "http://www.parcs-madagascar.com/parcs/marolambo.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Masoala",
@@ -308,10 +293,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "2,405.2",
-    "size_unit": "km²",
+    "size_in_km": 2405.2,
     "url": "http://www.parcs-madagascar.com/parcs/masoala.php",
-    "visitor_count": "2,480"
+    "visitor_count": 2480
   },
   {
     "name": "Midongy du Sud",
@@ -327,10 +311,9 @@
     "latitude": "-23.702939377750745",
     "longitude": "47.096661804430425",
     "memberships": {},
-    "size": "1,922",
-    "size_unit": "km²",
+    "size_in_km": 1922,
     "url": "http://www.parcs-madagascar.com/parcs/midongy%20du%20sud.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Mikea",
@@ -346,10 +329,9 @@
     "latitude": "-22.33736157640095",
     "longitude": "43.35100179731799",
     "memberships": {},
-    "size": "2,367.37",
-    "size_unit": "km²",
+    "size_in_km": 2367.37,
     "url": "http://www.parcs-madagascar.com/parcs/mikea.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Nosy Hara",
@@ -367,10 +349,9 @@
     "memberships": {
       "iucn_green": true
     },
-    "size": "2.7",
-    "size_unit": "km²",
+    "size_in_km": 2.7,
     "url": "http://www.parcs-madagascar.com/parcs/nosy%20hara.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Nosy Tanikely",
@@ -386,10 +367,9 @@
     "latitude": "-13.481982371651696",
     "longitude": "48.23648358914496",
     "memberships": {},
-    "size": "3.1",
-    "size_unit": "km²",
+    "size_in_km": 3.1,
     "url": "http://www.parcs-madagascar.com/parcs/nosy-tanihely.php",
-    "visitor_count": "22,051"
+    "visitor_count": 22051
   },
   {
     "name": "Nosy Ve-Androka",
@@ -407,10 +387,9 @@
     "memberships": {
       "ramsar": true
     },
-    "size": "19.6",
-    "size_unit": "km²",
+    "size_in_km": 19.6,
     "url": "http://www.parcs-madagascar.com/parcs/nosy-ve-androka.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Ranomafana",
@@ -428,10 +407,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "416",
-    "size_unit": "km²",
+    "size_in_km": 416,
     "url": "http://www.parcs-madagascar.com/parcs/ranomafana.php",
-    "visitor_count": "21,032"
+    "visitor_count": 21032
   },
   {
     "name": "Sahamalaza",
@@ -440,7 +418,7 @@
     "description": "The national park is home to some of the last remaining populations of the critically endangered blue-eyed black lemur and the Sahamalaza sportive lemur, both endemic to this region.",
     "established": "2007",
     "images": [
-      "https://aeecl.org/wp-content/uploads/2020/03/DSCF4842-768x1024.jpg",
+      "https://en.unesco.org/sites/default/files/cover_sahamalaza_ilesradama_biosphere_reserve_madagascar_wikimedia.jpg",
       "https://www.iucn.org/sites/default/files/content/images/2017/15b-014-022_eulemur_flavifrons_male_c_guy_randriatahina.jpg",
       "https://www.iucn.org/sites/default/files/content/images/2017/15b-014-023_eulemur_flavifrons_female_c_guy_randriatahina.jpg"
     ],
@@ -449,10 +427,9 @@
     "memberships": {
       "ramsar": true
     },
-    "size": "260",
-    "size_unit": "km²",
+    "size_in_km": 260,
     "url": "http://www.parcs-madagascar.com/parcs/sahamalaza.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Tsimanampetsotsa",
@@ -470,10 +447,9 @@
     "memberships": {
       "ramsar": true
     },
-    "size": "432",
-    "size_unit": "km²",
+    "size_in_km": 432,
     "url": "http://www.parcs-madagascar.com/parcs/tsimanapesotse.php",
-    "visitor_count": "1,186"
+    "visitor_count": 1186
   },
   {
     "name": "Tsingy de Bemaraha",
@@ -491,10 +467,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "723.4",
-    "size_unit": "km²",
+    "size_in_km": 723.4,
     "url": "http://www.parcs-madagascar.com/parcs/bemaraha.php",
-    "visitor_count": "9,561"
+    "visitor_count": 9561
   },
   {
     "name": "Zahamena",
@@ -512,10 +487,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "423",
-    "size_unit": "km²",
+    "size_in_km": 423,
     "url": "http://www.parcs-madagascar.com/parcs/zahamena.php",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Zombitse-Vohibasia",
@@ -531,10 +505,9 @@
     "latitude": "-22.841584735117248",
     "longitude": "44.68184842616237",
     "memberships": {},
-    "size": "363.1",
-    "size_unit": "km²",
+    "size_in_km": 363.1,
     "url": "http://www.parcs-madagascar.com/parcs/zombitse.php",
-    "visitor_count": "2,822"
+    "visitor_count": 2822
   },
   {
     "name": "Abel Tasman",
@@ -548,10 +521,9 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
-    "visitor_count": ""
+    "size_in_km": null,
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/abel-tasman-national-park",
+    "visitor_count": null
   },
   {
     "name": "Aoraki Mount Cook",
@@ -565,9 +537,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/aoraki-mount-cook-national-park",
     "visitor_count": ""
   },
   {
@@ -582,9 +553,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/canterbury/places/arthurs-pass-national-park",
     "visitor_count": ""
   },
   {
@@ -599,9 +569,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/taranaki/places/egmont-national-park",
     "visitor_count": ""
   },
   {
@@ -616,9 +585,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park",
     "visitor_count": ""
   },
   {
@@ -633,9 +601,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/kahurangi-national-park",
     "visitor_count": ""
   },
   {
@@ -650,9 +617,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/otago/places/mount-aspiring-national-park",
     "visitor_count": ""
   },
   {
@@ -667,9 +633,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/nelson-tasman/places/nelson-lakes-national-park",
     "visitor_count": ""
   },
   {
@@ -684,9 +649,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park",
     "visitor_count": ""
   },
   {
@@ -701,9 +665,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/southland/places/stewart-island-rakiura/rakiura-national-park",
     "visitor_count": ""
   },
   {
@@ -720,9 +683,8 @@
     "memberships": {
       "unesco": true
     },
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park",
     "visitor_count": ""
   },
   {
@@ -737,9 +699,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/westland-tai-poutini-national-park",
     "visitor_count": ""
   },
   {
@@ -754,9 +715,8 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
-    "url": "",
+    "size_in_km": "",
+    "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/manawatu-whanganui/places/whanganui-national-park",
     "visitor_count": ""
   },
   {
@@ -775,10 +735,9 @@
     "memberships": {
       "unesco": true
     },
-    "size": "26,116.74",
-    "size_unit": "km²",
+    "size_in_km": 26116.74,
     "url": "https://whc.unesco.org/en/list/1252/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Chimanimani",
@@ -792,8 +751,7 @@
     "latitude": "-19.91216499537235",
     "longitude": "33.01531085101209",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/chimanimani-national-park/",
     "visitor_count": ""
   },
@@ -809,8 +767,7 @@
     "latitude": "-17.744061581573295",
     "longitude": "27.878117015420194",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/chizarira-national-park/",
     "visitor_count": ""
   },
@@ -826,8 +783,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/gonarezhou-national-park/",
     "visitor_count": ""
   },
@@ -843,8 +799,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/hwange-national-park/",
     "visitor_count": ""
   },
@@ -860,8 +815,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/kazuma-pan-national-park/",
     "visitor_count": ""
   },
@@ -880,8 +834,7 @@
       "ramsar": true,
       "unesco": true
     },
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/mana-pools-national-park/",
     "visitor_count": ""
   },
@@ -897,8 +850,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/matusadona-national-park/",
     "visitor_count": ""
   },
@@ -914,8 +866,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/nyanga-national-park/",
     "visitor_count": ""
   },
@@ -934,8 +885,7 @@
       "ramsar": true,
       "unesco": true
     },
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/victoria-falls-national-park/",
     "visitor_count": ""
   },
@@ -951,8 +901,7 @@
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size": "",
-    "size_unit": "km²",
+    "size_in_km": "",
     "url": "https://www.zimparks.org.zw/zambezi-national-park/",
     "visitor_count": ""
   }
