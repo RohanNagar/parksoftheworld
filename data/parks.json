@@ -107,7 +107,9 @@
     ],
     "latitude": "-24.75400988559863",
     "longitude": "46.76654587075342",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size": "760.2",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/andohahela.php",
@@ -126,7 +128,9 @@
     ],
     "latitude": "-22.21165571317014",
     "longitude": "46.922407990707256",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size": "311.6",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/andringitra.php",
@@ -145,7 +149,9 @@
     ],
     "latitude": "-16.22247461248744",
     "longitude": "46.94165676415938",
-    "memberships": {},
+    "memberships": {
+      "ramsar": true
+    },
     "size": "1365.13",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/ankarafantsika.php",
@@ -269,15 +275,17 @@
   },
   {
     "name": "Marolambo",
-    "color": "",
+    "color": "#a3a3ac",
     "country": "MG",
-    "description": "",
+    "description": "Marolambo National Park is primarily a wet dense forest, located between several regions including Atsinanana, Vatovavy-Fitovinany, Vakinankaratra and Amoron'i Mania.",
     "established": "2015",
     "images": [
-
+      "https://www.parcs-madagascar.com/parcs/images/marolambo/ChuteRianambo_secteur%20Nord-ouest.jpg",
+      "https://www.ser-rrc.org/wp-content/uploads/2019/08/Fandriana-4.png",
+      "https://maison-de-madagascar.ch/files/2019/08/Parc-National-de-Marolambo.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-19.672096947174722",
+    "longitude": "47.51324881076798",
     "memberships": {},
     "size": "1,942.9",
     "size_unit": "km²",
@@ -286,32 +294,38 @@
   },
   {
     "name": "Masoala",
-    "color": "",
+    "color": "#518b9a",
     "country": "MG",
-    "description": "",
+    "description": "The largest of Madagascar's protected areas, The Masoala National Park is exceptionally diverse due to its large size, and variety of habitats. Altogether, the park protects tropical rainforest, coastal forest, flooded forest, marsh, and mangrove.",
     "established": "1997",
     "images": [
-
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/75/3a/20/masoala-national-park.jpg?w=1200&h=-1&s=1",
+      "https://www.naturalworldsafaris.com/media/3272/nws-st-madagascar-masoala-national-park.jpg",
+      "https://www.aqua-firma.com/contentFiles/image/madagascar/masoala/masoala-national-park-rainforest-coast-ralph-pannell-aqua-firma-v.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
+    "latitude": "-15.637486608508189",
+    "longitude": "50.100845439545445",
+    "memberships": {
+      "unesco": true
+    },
     "size": "2,405.2",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/masoala.php",
     "visitor_count": "2,480"
   },
   {
-    "name": "Midongy of the South",
-    "color": "",
+    "name": "Midongy du Sud",
+    "color": "#897247",
     "country": "MG",
-    "description": "",
+    "description": "The park is the second largest rainforest on the island and is rich in endemic animals and plants, especially medicinal plants.",
     "established": "1997",
     "images": [
-
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Diademed_ready_to_push_off.jpg/1200px-Diademed_ready_to_push_off.jpg",
+      "https://www.parcs-madagascar.com/parcs/images/midongy%20du%20sud/fb2.jpg",
+      "https://ndaoitravel.com/wp-content/uploads/2017/12/Midongy4.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-23.702939377750745",
+    "longitude": "47.096661804430425",
     "memberships": {},
     "size": "1,922",
     "size_unit": "km²",
@@ -320,15 +334,17 @@
   },
   {
     "name": "Mikea",
-    "color": "",
+    "color": "#ab6e41",
     "country": "MG",
-    "description": "",
+    "description": "Named after the Mikea, one of Madagascar's last hunter-gatherer societies, this park is known for its stunted Grandidier’s baobab trees, the trunks of which are shorter and wider than specimens found elsewhere in Madagascar.",
     "established": "2007",
     "images": [
-
+      "https://www.naturalworldsafaris.com/media/3190/madagascar-joshua-barton-jumping-ringtailed-lemur.jpg",
+      "https://imgs.mongabay.com/wp-content/uploads/sites/20/2019/10/03141842/SFriedberg_Mikea_3-768x512.jpg",
+      "https://imgs.mongabay.com/wp-content/uploads/sites/20/2019/10/03141855/SFriedberg_Mikea_5.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-22.33736157640095",
+    "longitude": "43.35100179731799",
     "memberships": {},
     "size": "2,367.37",
     "size_unit": "km²",
@@ -337,34 +353,38 @@
   },
   {
     "name": "Nosy Hara",
-    "color": "",
+    "color": "#6a9fe6",
     "country": "MG",
-    "description": "",
+    "description": "An uninhabited limestone islet off the northwest coast of Madagascar, it is the habitat of Brookesia micra, the smallest known chameleon.",
     "established": "2012",
     "images": [
-
+      "https://www.madamagazine.com/wp-content/uploads/2016/06/Nationalpark-Nosy-Hara-6-1050x525.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Brookesia_micra_female.jpg/800px-Brookesia_micra_female.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/c/c1/Brookesia_micra_habitat.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-12.237823460274576",
+    "longitude": "49.013566357668445",
     "memberships": {
       "iucn_green": true
     },
-    "size": "1,831.1",
+    "size": "2.7",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/nosy%20hara.php",
     "visitor_count": ""
   },
   {
     "name": "Nosy Tanikely",
-    "color": "",
+    "color": "#419696",
     "country": "MG",
-    "description": "",
+    "description": "Nosy Tanikely is recognized for its remarkable marine and land biodiversity. The site is one of Madagascar’s most important in terms of marine characteristics.",
     "established": "2011",
     "images": [
-
+      "https://nosybe-tourisme.com/wp-content/uploads/2017/08/Nosy-tanikely-e1504189633398.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2016/05/nosytanikely10-1050x525.jpg",
+      "https://www.madamagazine.com/wp-content/uploads/2016/05/nosytanikely5-1050x525.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-13.481982371651696",
+    "longitude": "48.23648358914496",
     "memberships": {},
     "size": "3.1",
     "size_unit": "km²",
@@ -373,16 +393,20 @@
   },
   {
     "name": "Nosy Ve-Androka",
-    "color": "",
+    "color": "#cdcd77",
     "country": "MG",
-    "description": "",
+    "description": "The Nosy Ve-Androka National Park contains about 140 species of coral and 240 species of fish. There are also rare species such as Coelacanths, marine turtle species, Dugongs, Dolphins and Whales and sandy beaches that are used by nesting sea turtles.",
     "established": "2015",
     "images": [
-
+      "http://awsassets.panda.org/img/tsimanampesotse_09_486_flamingos_1_651619.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Coral_Nosy_Ve-Androka_National_Park.jpg",
+      "https://www.parcs-madagascar.com/parcs/images/nosy%20ve%20androka/decouverte-nosy-be-9-1024x647.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
+    "latitude": "-23.645618103616865",
+    "longitude": "43.603372423886746",
+    "memberships": {
+      "ramsar": true
+    },
     "size": "19.6",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/nosy-ve-androka.php",
@@ -399,7 +423,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size": "416",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/ranomafana.php",
@@ -473,7 +499,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size": "423",
     "size_unit": "km²",
     "url": "http://www.parcs-madagascar.com/parcs/zahamena.php",
