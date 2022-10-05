@@ -778,51 +778,57 @@
   },
   {
     "name": "Chimanimani",
-    "color": "",
+    "color": "#1d1f13",
     "country": "ZW",
-    "description": "This park borders Mozambique in an area of rugged mountain grandeur, enhanced by many spectacular gorges and high peaks rising to 2436 metres. There are several streams cascading through the mountain formations as well as numerous mountain springs. Forest lovers will take a delight in the virgin forests of the area. There are no roads in this wild area and only footpaths and narrow tracks lead to the various places of interest.",
-    "established": "",
+    "description": "This park borders Mozambique in an area of rugged mountain grandeur, enhanced by many spectacular gorges and high peaks rising to 2436 metres. There are several streams cascading through the mountain formations as well as numerous mountain springs.",
+    "established": "2020",
     "images": [
-
+      "https://chimanimani.com/wp-content/uploads/2020/08/Chimanimani-Mountain-12.jpg",
+      "https://i.pinimg.com/736x/8f/f8/5a/8ff85a0e6206f5c4a2fa2b13069f2629.jpg",
+      "https://maps.prodafrica.com/wp-content/uploads/2019/09/9014_CHIMANIMANI_002_PHOTO_BY_Brian-Gratwicke_FLICKR.jpg"
     ],
     "latitude": "-19.91216499537235",
     "longitude": "33.01531085101209",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 171,
     "url": "https://www.zimparks.org.zw/places-to-visit/chimanimani-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Chizarira",
-    "color": "",
+    "color": "#454949",
     "country": "ZW",
     "description": "This park is situated on top of the great Zambezi escarpment in the north western part of Zimbabwe, overlooking the mighty Zambezi Valley and upper waters of Lake Kariba.",
     "established": "1975",
     "images": [
-
+      "https://www.masaimaramigration.com/wp-content/uploads/2021/12/chizarira-national-park-2.png",
+      "https://blog.tracks4africa.co.za/wp-content/uploads/2018/11/Johann-Groenewald-Chizarira-National-Park-Kabombo-Vlei-3527.jpg",
+      "https://maps.prodafrica.com/wp-content/uploads/2019/09/8859_CHIZA_001_PHOTO_BY_Avel-Chuklanov_UNSPLASH.jpg"
     ],
     "latitude": "-17.744061581573295",
     "longitude": "27.878117015420194",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 2000,
     "url": "https://www.zimparks.org.zw/places-to-visit/chizarira-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Gonarezhou",
-    "color": "",
+    "color": "#df9362",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "The Gonarezhou National Park is one of the iconic wilderness areas of Africa, with relatively few tourists but boasting an amazing diversity of landscapes, features, and growing wildlife populations. By far, the most well known and prominent feature of the Park is the Chilojo Cliffs, sandstone cliffs towering 180 meters high and running for some 20 kilometers along the south bank of the Runde River.",
+    "established": "1975",
     "images": [
-
+      "https://lp-cms-production.imgix.net/image_browser/chilo-cliff-gonarezhou-GettyImages-1164289885.jpg",
+      "https://fzs.org/wp-content/uploads/2020/11/dji_0453_elephant-scaled.jpg",
+      "https://s3-eu-west-2.amazonaws.com/newzimlive/wp-content/uploads/2018/04/19152657/Gonarezhou.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-21.60817677692169",
+    "longitude": "31.85828316198861",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 5053,
     "url": "https://www.zimparks.org.zw/places-to-visit/gonarezhou-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Hwange",
@@ -873,6 +879,24 @@
     },
     "size_in_km": "",
     "url": "https://www.zimparks.org.zw/places-to-visit/mana-pools-national-park/",
+    "visitor_count": ""
+  },
+  {
+    "name": "Matobo",
+    "color": "",
+    "country": "ZW",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {
+      "unesco": true
+    },
+    "size_in_km": "",
+    "url": "https://www.zimparks.org.zw/places-to-visit/matobo-national-park/",
     "visitor_count": ""
   },
   {
@@ -937,7 +961,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "unesco": true
+    },
     "size_in_km": "",
     "url": "https://www.zimparks.org.zw/zambezi-national-park/",
     "visitor_count": ""
