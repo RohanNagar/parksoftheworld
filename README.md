@@ -22,10 +22,9 @@ Once merged, the changes will be live on the website within minutes!
   "latitude": "",
   "longitude": "",
   "memberships": {},
-  "size": "",
-  "size_unit": "km²",
+  "size_in_km": null,
   "url": "",
-  "visitor_count": ""
+  "visitor_count": null
 },
 ```
 

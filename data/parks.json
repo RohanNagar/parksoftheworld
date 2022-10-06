@@ -832,140 +832,156 @@
   },
   {
     "name": "Hwange",
-    "color": "",
+    "color": "#937761",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "The largest natural reserve in Zimbabwe, the park has plentiful wildlife. Additionally, people have lived in the Hwange region for tens of thousands of years, as attested by numerous archaeological sites ranging from early Stone Age to the historic era.",
+    "established": "1961",
     "images": [
-
+      "https://upload.wikimedia.org/wikipedia/commons/8/80/Down_the_water_hole.jpg",
+      "https://africanbushcamps.com/wp-content/uploads/2018/05/Hwange-National-Park_11.jpg",
+      "https://www.matriarchafrica.com/wp-content/uploads/2019/01/Somalisa-Camp-Wildlife.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-19.055718211980917",
+    "longitude": "26.583470664372218",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 14651,
     "url": "https://www.zimparks.org.zw/places-to-visit/hwange-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Kazuma Pan",
-    "color": "",
+    "color": "#967045",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "Kazuma Pan is virtually unspoilt wilderness with an open landscape of grassy plains which is reminiscent of the great East African plains and is thus dissimilar to the usual Zimbabwean bush or woodland landscapes. A special species to the Kazuma Pan National Park is the oribi, a small antelope, which is rather rare in Zimbabwe.",
+    "established": "1975",
     "images": [
-
+      "https://maps.prodafrica.com/wp-content/uploads/2019/11/9411_KAZUMA_001_PHOTO_BY_ZIMPARKS.jpg",
+      "https://byolife.co.zw/wp-content/uploads/2019/08/Kazuma-Pan-National-Park-1.jpg",
+      "https://www.wonderfulzimbabwe.com/wp-content/uploads/2015/02/Kazuma-Pan.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-18.336341063349057",
+    "longitude": "25.616841897022965",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 313,
     "url": "https://www.zimparks.org.zw/places-to-visit/kazuma-pan-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Mana Pools",
-    "color": "",
+    "color": "#d9c2a9",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "Mana Pools National Park is located in a region of the lower Zambezi River where the flood plain turns into a broad expanse of lakes after each rainy season. As the lakes gradually dry up and recede, the region attracts many large animals in search of water, making it one of Africa's most renowned game-viewing regions.",
+    "established": "1984",
     "images": [
-
+      "https://piperandheath.com/wp-content/uploads/2017/04/Ruckomechi_2016-05-10_1020x525_acf_cropped-1.jpg",
+      "https://www.andbeyond.com/wp-content/uploads/sites/5/Elephant-drinking-water-in-Mana-Pools-National-Park-Zimbabwe.jpg",
+      "https://sunnewsonline.com/wp-content/uploads/2020/06/mana-pools-national-park-1024x680.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-15.937055824373946",
+    "longitude": "29.456982268384447",
     "memberships": {
       "ramsar": true,
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 6766,
     "url": "https://www.zimparks.org.zw/places-to-visit/mana-pools-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Matobo",
-    "color": "",
+    "color": "#c2ab85",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "The Matobo National Park forms the core of the Matobo or Matopos Hills, an area of granite kopjes and wooded valleys. The hills were formed over 2 billion years ago with granite being forced to the surface, this has eroded to produce smooth \"whaleback dwalas\" and broken kopjes, strewn with boulders and interspersed with thickets of vegetation.",
+    "established": "1926",
     "images": [
-
+      "https://lp-cms-production.imgix.net/2019-06/1d21e6b7e65f622670508b02c4217e0c-matobo-national-park.jpg",
+      "https://cdn.audleytravel.com/941/672/79/402512-rhodes-grave-matopos-hills.jpg",
+      "https://cdn.britannica.com/63/145863-050-33048AED/Matopo-Hills-Zimbabwe.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-20.557091592819255",
+    "longitude": "28.51246781078223",
     "memberships": {
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 424,
     "url": "https://www.zimparks.org.zw/places-to-visit/matobo-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Matusadona",
-    "color": "",
+    "color": "#727d83",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "Matusadona National Park gets its name from the rolling Matusadona hills that form part of its water rich landscape. It is flanked by Lake Kariba in the north, and two perennial rivers, the Ume and the Sanyati.",
+    "established": "1975",
     "images": [
-
+      "https://www.robinpopesafaris.net/wp-content/uploads/hippos-matusadona-national-park-zimbabwe-1000x563.jpg",
+      "https://zimbabwetourism.net/wp-content/uploads/2021/10/matusadona-national-park-zimbabwe-4-1024x681-1-770x550.jpg",
+      "https://cdn.audleytravel.com/3272/2336/79/391875-breeding-herd-of-elephant.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-16.94294166220487",
+    "longitude": "28.626543370243628",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 1400,
     "url": "https://www.zimparks.org.zw/places-to-visit/matusadona-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Nyanga",
-    "color": "",
+    "color": "#c4ce9b",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "Nyanga National Park is one of the first national parks to be declared in the country. Mount Nyangani, the highest point in Zimbabwe, lies in the centre of the park and Mutarazi Falls, Zimbabwe's highest waterfall, is in the south of the park.",
+    "established": "1926",
     "images": [
-
+      "https://upload.wikimedia.org/wikipedia/commons/9/96/Central_nyanga_np.jpg",
+      "https://live.staticflickr.com/5020/5487618619_1c1662f023_b.jpg",
+      "https://www.pindula.co.zw/images/c/cc/Nyanga_Mountain.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-18.430641952667944",
+    "longitude": "32.76330359725416",
     "memberships": {},
-    "size_in_km": "",
+    "size_in_km": 472,
     "url": "https://www.zimparks.org.zw/places-to-visit/nyanga-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Victoria Falls",
-    "color": "",
+    "color": "#3e5560",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "Victoria Falls National Park in north-western Zimbabwe protects the south and east bank of the Zambezi River in the area of the world-famous Victoria Falls. A notable feature of the park is the rainforest which grows in the spray of the falls, including ferns, palms, liana vines, and a number of trees such as mahogany not seen elsewhere in the region.",
+    "established": "1952",
     "images": [
-
+      "https://nationalparks-15bc7.kxcdn.com/images/parks/victoria-falls/Victoria%20Falls%20National%20Park%20aireal.jpg",
+      "https://torntackies.b-cdn.net/wp-content/uploads/2017/10/victoria-falls-national-park-zimbabwe-1024x683.jpg",
+      "https://www.masaimaramigration.com/wp-content/uploads/2021/07/victoria-falls-zimbabwe-1-1200x675.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-17.923518857421662",
+    "longitude": "25.864419371371447",
     "memberships": {
       "ramsar": true,
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 23.4,
     "url": "https://www.zimparks.org.zw/victoria-falls-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   },
   {
     "name": "Zambezi",
     "color": "",
     "country": "ZW",
-    "description": "",
-    "established": "",
+    "description": "Located upstream from Victoria Falls on the Zambezi River, the parj was split off from Victoria Falls National Park in 1979. The Zambezi National Park plays host to a wide variety of larger mammals including African elephant, lion, Cape buffalo and leopard.",
+    "established": "1979",
     "images": [
-
+      "https://www.victoriafalls-guide.net/images/zambezi-national-park-1.jpg",
+      "https://www.siyabona.com/images/zambezi-national-park-elephants-786x416.jpg",
+      "https://www.discoverafrica.com/wp-content/uploads/2021/11/lower_zambezi_np_lioness.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "-17.978175637842924",
+    "longitude": "25.710178897247594",
     "memberships": {
       "unesco": true
     },
-    "size_in_km": "",
+    "size_in_km": 560,
     "url": "https://www.zimparks.org.zw/zambezi-national-park/",
-    "visitor_count": ""
+    "visitor_count": null
   }
 ]
