@@ -37,7 +37,7 @@
   },
   {
     "name": "Butrint",
-    "color": "#f3f3f6",
+    "color": "#b5aba2",
     "country": "AL",
     "description": "The archaeological heritage of Butrint is one of the most important archaeological sites in the country, containing different artefacts and structures, dating from the Iron Age up until the Middle Ages. Additionally, the park's significance for conservation is reflected in the large number of species with over 1,200 different animals and plants.",
     "established": "2000",
@@ -75,35 +75,41 @@
     "visitor_count": null
   },
   {
-    "name": "Divjaka Pine",
-    "color": "",
+    "name": "Divjakë-Karavasta",
+    "color": "#b89894",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "The park is one of the country's foremost birding destinations featuring an astounding mix of more than 228 species of resident and migratory birds, of which almost 15 species are globally endangered. The sheltered open waters of the wetlands and the outlying coasts provide resting areas for migrating birds on their way between Europe and Africa through the Adriatic flyway.",
+    "established": "2007",
     "images": [
-
+      "https://thebalkanista.com/wp-content/uploads/2018/12/div.jpg",
+      "https://i2.wp.com/www.btours.al/wp-content/uploads/2020/12/divjaka_lagun_albania-2.jpg?ssl=1",
+      "https://medwet.org/wp-content/uploads/2019/02/Forests-in-the-National-Park-Divjake-Karavasta.-Photo-Pictame.com_.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "latitude": "40.92959144630015",
+    "longitude": "19.497244347857272",
+    "memberships": {
+      "ramsar": true
+    },
+    "size_in_km": 222.3,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
-    "name": "Drenova Fir",
-    "color": "",
+    "name": "Fir of Drenova",
+    "color": "#383537",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "Featuring Morava Mountain, the national park is host to many rock formations such as the Stone of Capi, and also many water features such as the Lenies Lakes and the Karstic Cavity.",
+    "established": "1966",
     "images": [
-
+      "https://i0.wp.com/www.btours.al/wp-content/uploads/2020/12/fir_of_drenove_park.jpg?fit=1920%2C1080&ssl=1",
+      "https://images.prismic.io/nationalparks/9ccb8de3-3703-4344-9faf-068f33f3e4e5_fir-of-drenove-national-park-entrance.jpeg",
+      "http://balkancultureheritage.com/storage/categories/1124/images/1080_5.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40.566287981866864",
+    "longitude": "20.82548959776326",
     "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "size_in_km": 10.3,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
@@ -181,7 +187,9 @@
     ],
     "latitude": "",
     "longitude": "",
-    "memberships": {},
+    "memberships": {
+      "ramsar": true
+    },
     "size_in_km": null,
     "url": "",
     "visitor_count": null
