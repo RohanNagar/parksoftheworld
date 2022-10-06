@@ -2,10 +2,18 @@
 
 ### Afghanistan
 
-No government or park website found. Details are sparse, and most information was taken from
-Wikipedia.
+No government or park website found. Details are sparse, and most information
+was taken from Wikipedia and its sources.
 
 [Wikipedia](https://en.wikipedia.org/wiki/List_of_protected_areas_of_Afghanistan)
+
+### Åland Islands
+
+[Government Travel Website](https://visitaland.com/en/)
+
+### Albania
+
+[Official Park Website](https://albania.al/destinations/national-parks/)
 
 ### Ascension Island
 

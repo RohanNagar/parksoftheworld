@@ -36,6 +36,253 @@
     "visitor_count": null
   },
   {
+    "name": "Butrint",
+    "color": "#f3f3f6",
+    "country": "AL",
+    "description": "The archaeological heritage of Butrint is one of the most important archaeological sites in the country, containing different artefacts and structures, dating from the Iron Age up until the Middle Ages. Additionally, the park's significance for conservation is reflected in the large number of species with over 1,200 different animals and plants.",
+    "established": "2000",
+    "images": [
+      "https://www.anadventurousworld.com/wp-content/uploads/2014/07/butrint-national-park.jpg",
+      "https://www.anadventurousworld.com/wp-content/uploads/2014/07/butrint-albania.jpg",
+      "https://ionian-cruises.com/wp-content/uploads/2018/04/Butrint-National-Park-Albania-2.jpg"
+    ],
+    "latitude": "39.74391065376822",
+    "longitude": "20.019119417344495",
+    "memberships": {
+      "ramsar": true,
+      "unesco": true
+    },
+    "size_in_km": 94.24,
+    "url": "https://albania.al/destinations/butrint/",
+    "visitor_count": null
+  },
+  {
+    "name": "Dajti",
+    "color": "#3681aa",
+    "country": "AL",
+    "description": "Recognised as an Important Plant Area of international importance by Plantlife, the park is marked by an extremely fragmented, rugged topography which creates favourable conditions for a great diversity of ecosystems and biodiversity.",
+    "established": "1966",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/98/Dajti_National_Park%2C_Tirana.jpg",
+      "https://i0.wp.com/www.thebalkansandbeyond.com/wp-content/uploads/2020/10/Untitled-design-9-4.png?fit=2240%2C1260&ssl=1",
+      "https://images.squarespace-cdn.com/content/v1/5980e801d482e93f58785fef/1599686822548-J10I52TRIS1QCKF4LEYI/view+from+the+top+of+Dajti+Mountain?format=1500w"
+    ],
+    "latitude": "41.36694673572922",
+    "longitude": "19.922143106291355",
+    "memberships": {},
+    "size_in_km": 293.84,
+    "url": "https://albania.al/dajti-mountain-tirana-national-park/",
+    "visitor_count": null
+  },
+  {
+    "name": "Divjaka Pine",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Drenova Fir",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Gjocaj Grit",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Karaburun-Sazan Marine",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Llogara",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Lura",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Prespa",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Shebenik – Jabllica",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Shtama Pass",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "The Fir of Hotova",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Thethi",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Tomori Mountain",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
+    "name": "Valbona Valley",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
     "name": "Green Mountain",
     "color": "#7b9e3a",
     "country": "AC",
