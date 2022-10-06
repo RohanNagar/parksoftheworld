@@ -1,5 +1,12 @@
 # Park Websites
 
+### Afghanistan
+
+No government or park website found. Details are sparse, and most information was taken from
+Wikipedia.
+
+[Wikipedia](https://en.wikipedia.org/wiki/List_of_protected_areas_of_Afghanistan)
+
 ### Ascension Island
 
 [Government Website](https://www.ascension.gov.ac)

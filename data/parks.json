@@ -1,5 +1,41 @@
 [
   {
+    "name": "Band-e Amir",
+    "color": "#9d826f",
+    "country": "AF",
+    "description": "Afghanistan's first national park, Band-e-Amir is a chain of six lakes in the mountainous desert of central Afghanistan. The lakes formed from mineral-rich water that seeped out of faults and cracks in the rocky landscape. Over time, the water deposited layers of hardened mineral (travertine) that built up into walls that now contain the water. ",
+    "established": "2009",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Afghanistan%27s_Grand_Canyon.jpg",
+      "https://i.ytimg.com/vi/pCuYORp7koU/maxresdefault.jpg",
+      "https://cdn.cnn.com/cnnnext/dam/assets/190515141657-band-e-amir-national-park--getty-images-full-169.jpg"
+    ],
+    "latitude": "34.84578974650147",
+    "longitude": "67.22497609759894",
+    "memberships": {},
+    "size_in_km": 606.16,
+    "url": "https://en.wikivoyage.org/wiki/Band-e_Amir_National_Park",
+    "visitor_count": 6000
+  },
+  {
+    "name": "Wakhan",
+    "color": "#3a241a",
+    "country": "AF",
+    "description": "The park comprises the entire district of Wakhan, containing some 600 plant species, the snow leopard, lynx, wolf, brown bear, stone marten, red fox, Pallas's cat, ibex, Marco Polo sheep, and urial.",
+    "established": "2014",
+    "images": [
+      "https://secretcompass.com/wp-content/uploads/2015/08/afghanistan_header_image-1.jpg",
+      "https://i.natgeofe.com/n/e36c7db8-da01-4834-ad4b-23336006e03d/78359_4x3.jpg",
+      "https://ychef.files.bbci.co.uk/976x549/p09mg0pg.jpg"
+    ],
+    "latitude": "37.10212809208673",
+    "longitude": "73.74780715533139",
+    "memberships": {},
+    "size_in_km": 10910.12,
+    "url": "https://en.wikivoyage.org/wiki/Wakhan_Corridor",
+    "visitor_count": null
+  },
+  {
     "name": "Green Mountain",
     "color": "#7b9e3a",
     "country": "AC",
@@ -966,7 +1002,7 @@
   },
   {
     "name": "Zambezi",
-    "color": "",
+    "color": "#f0dbc7",
     "country": "ZW",
     "description": "Located upstream from Victoria Falls on the Zambezi River, the parj was split off from Victoria Falls National Park in 1979. The Zambezi National Park plays host to a wide variety of larger mammals including African elephant, lion, Cape buffalo and leopard.",
     "established": "1979",
