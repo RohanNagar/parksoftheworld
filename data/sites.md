@@ -25,6 +25,10 @@ No government or park website found. Best source is from `visitgreenland.com`.
 
 [Visit Greenland](https://visitgreenland.com/about-greenland/national-park-2/)
 
+### Isle of Man
+
+[Government Website](https://www.gov.im/categories/leisure-and-entertainment/parks-and-gardens/)
+
 ### Madagascar
 
 [Official Park Website](http://www.parcs-madagascar.com)

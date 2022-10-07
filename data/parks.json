@@ -113,35 +113,21 @@
     "visitor_count": null
   },
   {
-    "name": "Gjocaj Grit",
-    "color": "",
+    "name": "Karaburun-Sazan",
+    "color": "#173d6c",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "Containing ecosystems and habitats that are specific to the Mediterranean Basin, the park is home to a vast array of landforms, including mountains, caves, islands, depressions, bays, cliffs, canyons and rocky coasts, all contributing to an exceptionally considerable biological diversity.",
+    "established": "2010",
     "images": [
-
+      "https://miro.medium.com/max/1400/1*UZv8YjLmjzao5WzLdnGZLg.jpeg",
+      "https://miro.medium.com/max/1480/1*4UIMVklcx2qFoFKwZKFYow.jpeg",
+      "https://elitetravel-albania.com/wp-content/uploads/2021/08/karaburun-sazan.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40.49184160195074",
+    "longitude": "19.27414574009081",
     "memberships": {},
-    "size_in_km": null,
-    "url": "",
-    "visitor_count": null
-  },
-  {
-    "name": "Karaburun-Sazan Marine",
-    "color": "",
-    "country": "AL",
-    "description": "",
-    "established": "",
-    "images": [
-
-    ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "size_in_km": 125.71,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
@@ -149,14 +135,14 @@
     "color": "",
     "country": "AL",
     "description": "",
-    "established": "",
+    "established": "1966",
     "images": [
 
     ],
     "latitude": "",
     "longitude": "",
     "memberships": {},
-    "size_in_km": null,
+    "size_in_km": 10.1,
     "url": "",
     "visitor_count": null
   },
@@ -291,6 +277,22 @@
     "visitor_count": null
   },
   {
+    "name": "Zall Gjoçaj",
+    "color": "",
+    "country": "AL",
+    "description": "",
+    "established": "",
+    "images": [
+
+    ],
+    "latitude": "",
+    "longitude": "",
+    "memberships": {},
+    "size_in_km": null,
+    "url": "",
+    "visitor_count": null
+  },
+  {
     "name": "Green Mountain",
     "color": "#7b9e3a",
     "country": "AC",
@@ -325,6 +327,24 @@
     "size_in_km": 972000,
     "url": "https://visitgreenland.com/about-greenland/national-park-2/",
     "visitor_count": 150
+  },
+  {
+    "name": "Tynwald",
+    "color": "#9b4e6f",
+    "country": "IM",
+    "description": "Tynwald National Park was opened to commemorate the millennium of the ancient Tynwald. The small park encompasses various species of trees.",
+    "established": "1979",
+    "images": [
+      "https://www.visitiom.co.uk/images/tynwald_national_park_slideshow_3/travelfinderss",
+      "https://eu-assets.simpleview-europe.com/isleofman2019/imageresizer/?image=%2Fdmsimgs%2Farboretum_55243888.jpg&action=ProductDetailProFullWidth",
+      "https://www.gov.im/lib/images/daff/news/tynwald2009.jpg"
+    ],
+    "latitude": "54.205503325315696",
+    "longitude": "-4.637681453271592",
+    "memberships": {},
+    "size_in_km": 0.1,
+    "url": "https://www.gov.im/categories/leisure-and-entertainment/parks-and-gardens/tynwald-national-park-and-arboretum/",
+    "visitor_count": null
   },
   {
     "name": "Amber Mountain",
