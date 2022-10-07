@@ -113,6 +113,24 @@
     "visitor_count": null
   },
   {
+    "name": "Fir of Hotovë",
+    "color": "#d0b592",
+    "country": "AL",
+    "description": "The largest national park in Albania, the park takes its name from the Hotova Fir, which is considered one of the most important Mediterranean plant relics of the country. The park also includes 11 natural monuments.",
+    "established": "1996",
+    "images": [
+      "https://libertytravel.al/wp-content/uploads/2019/01/hotova.jpg",
+      "https://www.intoalbania.com/wp-content/uploads/2020/06/NAT-BREDHI-I-HOTOVES_-FOTO-AZM-GJIROKASTER-07.jpg",
+      "https://www.westend61.de/images/0001021164pw/albania-gjirokaster-fir-of-hotove-dangelli-national-park-lengarica-canyon-lengarica-river-SIEF07838.jpg"
+    ],
+    "latitude": "40.367602343465165",
+    "longitude": "20.428032568922173",
+    "memberships": {},
+    "size_in_km": 343.61,
+    "url": "https://albania.al/destinations/national-parks/",
+    "visitor_count": null
+  },
+  {
     "name": "Karaburun-Sazan",
     "color": "#173d6c",
     "country": "AL",
@@ -132,164 +150,152 @@
   },
   {
     "name": "Llogara",
-    "color": "",
+    "color": "#384320",
     "country": "AL",
-    "description": "",
+    "description": "Centered on the Ceraunian Mountains along the Albanian Riviera in Southwestern Albania, the park's terrain includes large alpine meadows, vertical rock faces, precipices and dense forests.",
     "established": "1966",
     "images": [
-
+      "https://nationalparks-15bc7.kxcdn.com/images/parks/llogara/Llogara%20National%20Park.jpg",
+      "https://nationalparks-15bc7.kxcdn.com/images/parks/llogara/Llogara%20National%20Park%20overlook.jpg",
+      "https://nationalparks-15bc7.kxcdn.com/images/parks/llogara/Llogara%20National%20Park%20landscape.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40.2181794353346",
+    "longitude": "19.562759317023836",
     "memberships": {},
     "size_in_km": 10.1,
-    "url": "",
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
-    "name": "Lura",
-    "color": "",
+    "name": "Lurë-Dejë Mountain",
+    "color": "#a6a698",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "The park was originally established in 1966 to protect the various ecosystems and biodiversity as Lura National Park, and further expanded in 2018 to include the former Zall-Gjocaj National Park.",
+    "established": "1966",
     "images": [
-
+      "https://peakvisor.com/photo/SD/Lura-Dejes-Mt-National-Park-Albania-lake2.jpg",
+      "https://libertytravel.al/wp-content/uploads/2019/01/lura-2.jpg",
+      "https://peakvisor.com/photo/SD/Lura-Dejes-Mt-National-Park-Albania-forest2.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41.78791264204799",
+    "longitude": "20.19451753147613",
     "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "size_in_km": 202.42,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
     "name": "Prespa",
-    "color": "",
+    "color": "#908e90",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "The park encompasses the country's sections of the Great and Small Prespa Lake. It is considerably characterised by high mountains, narrow islands, vast freshwater wetlands, salt marshes, meadows, reed beds and dense forests. The park is dotted with many natural and cultural features containing prehistoric dwellings and Byzantine churches.",
+    "established": "1999",
     "images": [
-
+      "https://www.nature-experience-albania.com/wp-content/uploads/photo-prespa-national-park-48.jpg",
+      "https://www.nature-experience-albania.com/wp-content/uploads/photo-prespa-national-park-12.jpg",
+      "https://www.nature-experience-albania.com/wp-content/uploads/photo-prespa-national-park-49.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40.79666551338369",
+    "longitude": "20.87963024133273",
     "memberships": {
       "ramsar": true
     },
-    "size_in_km": null,
-    "url": "",
+    "size_in_km": 277.5,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
-    "name": "Shebenik – Jabllica",
-    "color": "",
+    "name": "Shebenik-Jabllanicë",
+    "color": "#ab7126",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "The park offers some of the most rugged scenery in the eastern section of country that were carved into their present shapes by the glaciers of the last ice age. It is home to 14 glacial lakes, the highest situated between 1,500 and 1,900 metres elevation above the Adriatic.",
+    "established": "2008",
     "images": [
-
+      "https://cms.pine.al/media/images/2022/07/27/62e19f5f3c26e-s1.jpg",
+      "https://invest-in-albania.org/wp-content/uploads/shebenik.jpg",
+      "https://www.intoalbania.com/wp-content/uploads/2018/08/Maja-e-Malit-të-Kallkanit-Parku-Shebenik-Jabllanicë-Librazhd-ME-LOGO-1900.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "latitude": "41.23286197881351",
+    "longitude": "20.45446451577757",
+    "memberships": {
+      "unesco": true
+    },
+    "size_in_km": 339.28,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
-    "name": "Shtama Pass",
-    "color": "",
+    "name": "Shtamë Pass",
+    "color": "#4c5140",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "The park is named after the Qafë-Shtamë passage, and has an area of 2000 hectares, with a beautiful mountain scenery consisting mainly of pine forests, some small lakes and major water sources. Most recently, the park has become a popular attraction for hiking.",
+    "established": "1996",
     "images": [
-
+      "https://mediaim.expedia.com/localexpert/3278507/e0abb112-028c-486b-ad4e-64e71b72f317.jpg?impolicy=resizecrop&rw=1005&rh=565",
+      "https://shkreliresort.al/wp-content/uploads/2018/10/KRJZ2450.jpg",
+      "https://4elementstravel.com/wp-content/uploads/2020/03/1-7.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "41.52087503621269",
+    "longitude": "19.892390644697947",
     "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "size_in_km": 20,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
-    "name": "The Fir of Hotova",
-    "color": "",
+    "name": "Theth",
+    "color": "#484330",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "Despite its limited area, the park is distinguished by a highly diverse flora with estimates which vary between 1500 and 1650 species of plants among which 70 species are endangered.",
+    "established": "1966",
     "images": [
-
+      "https://nationalparks-15bc7.kxcdn.com/images/parks/theth/Theth%20National%20Park%20blue%20eye%20lake.jpg",
+      "https://i0.wp.com/thethi-guide.com/wp-content/uploads/2020/09/Thethi-Best-Destination-1.jpg?ssl=1",
+      "https://nationalparks-15bc7.kxcdn.com/images/parks/theth/Theth%20National%20Park%20riverbed%20landscape.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "42.39628790457006",
+    "longitude": "19.773109997820246",
     "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "size_in_km": 26.3,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
-    "name": "Thethi",
-    "color": "",
+    "name": "Tomorr Mountain",
+    "color": "#91aaca",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "Tomorr is an anticline composed of limestones and karst. The mountain is one of the highest natural points of southern Albania, and is considered a sacred site of both Christians and Bekatshis.",
+    "established": "1956",
     "images": [
-
+      "https://i0.wp.com/www.btours.al/wp-content/uploads/2020/12/tomorri_mountain-1.jpg?fit=1920%2C1440&ssl=1",
+      "https://libertytravel.al/wp-content/uploads/2019/01/TOMORR.jpg",
+      "https://www.tryalbania.com/wp-content/uploads/2022/02/IMG_3318-e1646464896984.jpg"
     ],
-    "latitude": "",
-    "longitude": "",
+    "latitude": "40.709550239450515",
+    "longitude": "20.128304082427217",
     "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "size_in_km": 261.06,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
-    "name": "Tomori Mountain",
-    "color": "",
+    "name": "Valbonë Valley",
+    "color": "#384c34",
     "country": "AL",
-    "description": "",
-    "established": "",
+    "description": "Encompassing the Valbona River and Valley, this vast pristine ecosystem is the centrepiece of what has been referred to as the Albanian Miracle of the Alps.",
+    "established": "1996",
     "images": [
-
+      "https://i0.wp.com/thethi-guide.com/wp-content/uploads/2020/01/valbona-valley.jpg?fit=1000%2C714&ssl=1",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/4d/5f/13/viaggio-in-albania.jpg?w=1200&h=-1&s=1",
+      "https://i0.wp.com/alpventurer.com/wp-content/uploads/2020/02/Valbona-Valley-Albania-scaled.jpeg?fit=2560%2C1920&ssl=1"
     ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size_in_km": null,
-    "url": "",
-    "visitor_count": null
-  },
-  {
-    "name": "Valbona Valley",
-    "color": "",
-    "country": "AL",
-    "description": "",
-    "established": "",
-    "images": [
-
-    ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size_in_km": null,
-    "url": "",
-    "visitor_count": null
-  },
-  {
-    "name": "Zall Gjoçaj",
-    "color": "",
-    "country": "AL",
-    "description": "",
-    "established": "",
-    "images": [
-
-    ],
-    "latitude": "",
-    "longitude": "",
-    "memberships": {},
-    "size_in_km": null,
-    "url": "",
+    "latitude": "42.425967532591805",
+    "longitude": "19.925835811315814",
+    "memberships": {
+      "unesco": true
+    },
+    "size_in_km": 80,
+    "url": "https://albania.al/destinations/national-parks/",
     "visitor_count": null
   },
   {
