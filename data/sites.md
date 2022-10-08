@@ -25,6 +25,12 @@ No government or park website found. Best source is from `visitgreenland.com`.
 
 [Visit Greenland](https://visitgreenland.com/about-greenland/national-park-2/)
 
+### Guadeloupe
+
+As an overseas territory of France, the information is found on the French website.
+
+[Official Park Website](http://www.guadeloupe-parcnational.fr/fr)
+
 ### Isle of Man
 
 [Government Website](https://www.gov.im/categories/leisure-and-entertainment/parks-and-gardens/)

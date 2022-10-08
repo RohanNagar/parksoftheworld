@@ -213,7 +213,7 @@
     "images": [
       "https://cms.pine.al/media/images/2022/07/27/62e19f5f3c26e-s1.jpg",
       "https://invest-in-albania.org/wp-content/uploads/shebenik.jpg",
-      "https://www.intoalbania.com/wp-content/uploads/2018/08/Maja-e-Malit-të-Kallkanit-Parku-Shebenik-Jabllanicë-Librazhd-ME-LOGO-1900.jpg"
+      "https://www.infoglobe.cz/res/archive/975/109671.jpg?seek=1498225048"
     ],
     "latitude": "41.23286197881351",
     "longitude": "20.45446451577757",
@@ -333,6 +333,24 @@
     "size_in_km": 972000,
     "url": "https://visitgreenland.com/about-greenland/national-park-2/",
     "visitor_count": 150
+  },
+  {
+    "name": "Guadeloupe",
+    "color": "#c1b64f",
+    "country": "GP",
+    "description": "Part of the Guadeloupe Archipelago biosphere reserve, the only park in this overseas department of France was created to recognise the exceptional biodiversity of Basse-Terre's tropical forest and mountain massif.",
+    "established": "1989",
+    "images": [
+      "https://superuser.attenvo.com/storage/n0euK95oZtbxUpP81koVZutviA458CIjRF0EJUCK.jpg",
+      "https://www.guadeloupe-islands.com/wp-content/uploads/2017/08/Basse-Terre-Guadeloupe-1845.jpg",
+      "https://www.guadeloupe-islands.com/wp-content/uploads/2017/08/carbet-falls-and-the-summit-of-la-soufriere-volcano-GI.jpg"
+    ],
+    "latitude": "16.131785367647794",
+    "longitude": "-61.68159938251921",
+    "memberships": {},
+    "size_in_km": 335,
+    "url": "http://www.guadeloupe-parcnational.fr/fr",
+    "visitor_count": null
   },
   {
     "name": "Tynwald",
