@@ -316,6 +316,23 @@
     "visitor_count": 10000
   },
   {
+    "name": "American Samoa",
+    "color": "#446433",
+    "country": "AS",
+    "description": "Distributed across four islands, the park preserves and protects coral reefs, tropical rainforests, fruit bats, and the Samoan culture.",
+    "established": "1988",
+    "images": [
+      "https://afar.brightspotcdn.com/dims4/default/c27d0ee/2147483647/strip/false/crop/1600x1040+0+0/resize/1486x966!/quality/90/?url=https%3A%2F%2Fafar-media-production-web.s3.amazonaws.com%2Fbrightspot%2Fea%2F5b%2F4c899d88311a81df2509ed52fd7d%2Foriginal-lede-alava-danita-20delmont-shutterstock-1280511463-20copy.jpg",
+      "https://npf-prod.imgix.net/uploads/9109117816_0273acc123_o.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+      "https://media.cnn.com/api/v1/images/stellar/prod/230301142318-01-least-visited-national-parks-2022-natl-park-american-samoa.jpg?c=original&q=w_1280,c_fill"
+    ],
+    "latitude": "-14.257339366238584",
+    "longitude": "-170.68559426484939",
+    "size_in_km": 33,
+    "url": "https://www.nps.gov/npsa/index.htm",
+    "visitor_count": 28626
+  },
+  {
     "name": "Green Mountain",
     "color": "#7b9e3a",
     "country": "AC",

@@ -15,6 +15,12 @@ was taken from Wikipedia and its sources.
 
 [Official Park Website](https://albania.al/destinations/national-parks/)
 
+### American Samoa
+
+American Samoa is a US territory and its park is managed by the NPS.
+
+[Official Park Website](https://www.nps.gov/npsa/index.htm)
+
 ### Aruba
 
 [Official Park Website](https://www.arubanationalpark.org/)
