@@ -299,6 +299,23 @@
     "visitor_count": null
   },
   {
+    "name": "Arikok",
+    "color": "#419794",
+    "country": "AW",
+    "description": "Aruba's only national park comprises 20% of the island and consists of rugged terrain, desert-like hills filled with tall cacti, a breathtaking coastline, and protected native flora and fauna.",
+    "established": "2000",
+    "images": [
+      "https://afar.brightspotcdn.com/dims4/default/ac319eb/2147483647/strip/true/crop/800x400+0+50/resize/1440x720!/quality/90/?url=https%3A%2F%2Fafar-media-production-web.s3.amazonaws.com%2Fbrightspot%2Fa5%2F07%2Fa37e92c20b865e7dd3220e8baaa5%2Foriginal-c4152750d91c55b777f3647fabb54e75.jpg",
+      "https://lp-cms-production.imgix.net/2021-11/Aruba-Ayo-Rock-formation.jpg",
+      "https://image.arrivalguides.com/x/15/72ff3f0dc8dc2ecd0249a6cb3d2ffa04.jpg"
+    ],
+    "latitude": "12.499081504431066",
+    "longitude": "-69.94632390229094",
+    "size_in_km": 34,
+    "url": "https://www.arubanationalpark.org/main/park-information/",
+    "visitor_count": 10000
+  },
+  {
     "name": "Green Mountain",
     "color": "#7b9e3a",
     "country": "AC",
@@ -347,7 +364,10 @@
     ],
     "latitude": "16.131785367647794",
     "longitude": "-61.68159938251921",
-    "memberships": {},
+    "memberships": {
+      "iucn_green": true,
+      "ramsar": true
+    },
     "size_in_km": 335,
     "url": "http://www.guadeloupe-parcnational.fr/fr",
     "visitor_count": null

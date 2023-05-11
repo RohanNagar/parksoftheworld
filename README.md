@@ -41,5 +41,5 @@ Park memberships are sourced from:
 
 - [UNESCO World Heritage List](https://whc.unesco.org/en/list/)
 - [International Dark Sky Parks](https://www.darksky.org/our-work/conservation/idsp/parks/)
-- [Ramsar Sites](https://www.ramsar.org/sites/default/files/documents/library/sitelist.pdf)
+- [Ramsar Sites](https://rsis.ramsar.org/ris-search)
 - [IUCN Green List](https://iucngreenlist.org/explore/green-list-sites/)

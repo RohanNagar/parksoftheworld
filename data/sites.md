@@ -15,6 +15,10 @@ was taken from Wikipedia and its sources.
 
 [Official Park Website](https://albania.al/destinations/national-parks/)
 
+### Aruba
+
+[Official Park Website](https://www.arubanationalpark.org/)
+
 ### Ascension Island
 
 [Government Website](https://www.ascension.gov.ac)
