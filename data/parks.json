@@ -316,6 +316,23 @@
     "visitor_count": 10000
   },
   {
+    "name": "Ahaggar",
+    "color": "#c89e89",
+    "country": "DZ",
+    "description": "The park protects the Hogger mountain range and forms part of the West Saharan montane xeric woodlands – an ecoregion of isolated refuges where plants and animals survive the otherwise harsh conditions of the Saharan desert.",
+    "established": "1987",
+    "images": [
+      "https://www.mosaicnorthafrica.com/wp-content/uploads/2017/01/view-from-assekrem-plateau-in-ahaggar-national-park.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Assekrem_%28ahaggar_national_park%29.jpg/1200px-Assekrem_%28ahaggar_national_park%29.jpg",
+      "https://megustavolar.iberia.com/wp-content/uploads/mgv/Ahaggar.jpg"
+    ],
+    "latitude": "23.067862932012627",
+    "longitude": "6.235451403451865",
+    "size_in_km": 450000,
+    "url": "https://www.algeria.com/attractions/national-parks/ahaggar-national-park/",
+    "visitor_count": null
+  },
+  {
     "name": "American Samoa",
     "color": "#446433",
     "country": "AS",

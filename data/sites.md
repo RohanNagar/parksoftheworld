@@ -15,6 +15,13 @@ was taken from Wikipedia and its sources.
 
 [Official Park Website](https://albania.al/destinations/national-parks/)
 
+### Algeria
+
+No government or park website found. Travel website and Wikipedia were used.
+
+- [Unaffiliated Travel Website](https://www.algeria.com/attractions/national-parks/)
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_national_parks_in_Africa#Algeria)
+
 ### American Samoa
 
 American Samoa is a US territory and its park is managed by the NPS.
