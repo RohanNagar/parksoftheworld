@@ -43,3 +43,7 @@ Park memberships are sourced from:
 - [International Dark Sky Parks](https://www.darksky.org/our-work/conservation/idsp/parks/)
 - [Ramsar Sites](https://rsis.ramsar.org/ris-search)
 - [IUCN Green List](https://iucngreenlist.org/explore/green-list-sites/)
+
+Additional useful information is found from:
+
+- [Protected Planet](https://www.protectedplanet.net)
